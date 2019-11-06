@@ -1,0 +1,359 @@
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaGrafica.dll.config
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaGrafica.dll
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaGrafica.pdb
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaGrafica.xml
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\GMap.NET.Core.dll
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\GMap.NET.WindowsForms.dll
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaLogica.dll
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\WebCAM.dll
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\MessagingToolkit.QRCode.dll
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaDatos.dll
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaLogica.pdb
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaLogica.xml
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaDatos.pdb
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaDatos.xml
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.vbprojAssemblyReference.cache
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.EscanerQR.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileMedio.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.AltaUser.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.ImportarVehiculos.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.cambioPass.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.configGrafica.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.acercaDe.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.configRed.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.configIdioma.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.ErrorCodes.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.Images.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.LoginVariable.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuPrincipal.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuVariable.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.Resources.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.EN-UK.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.ES-LA.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.InfoLote.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.PT_BR.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileLote.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileLugar.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.SeleccionarMedio.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.AltaVehiculo.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.Damage.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.DatosDamage.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.DatosInspecc.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.DatosVehiculo.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.DatosInspeccion.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.HistorialZonas.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuLotes.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.ListadoZonas.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuVehiculos.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.Mapa.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileDamage.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileInspeccion.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileVehiculo.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MovimientoZona.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.NuevaInspeccion.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.NuevoLote.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.SeleccionarLote.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.ViajeEnCurso.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.vbproj.GenerateResource.cache
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.vbproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.vbproj.CopyComplete
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.dll
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.xml
+C:\Users\alumno\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.pdb
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaGrafica.dll.config
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaGrafica.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaGrafica.pdb
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaGrafica.xml
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\GMap.NET.Core.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\GMap.NET.WindowsForms.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaLogica.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\WebCAM.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\MessagingToolkit.QRCode.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaDatos.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaLogica.pdb
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaLogica.xml
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaDatos.pdb
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaDatos.xml
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.vbprojAssemblyReference.cache
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.EscanerQR.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileMedio.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.AltaUser.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.ImportarVehiculos.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.cambioPass.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.configGrafica.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.acercaDe.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.configRed.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.configIdioma.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.ErrorCodes.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.Images.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.LoginVariable.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuPrincipal.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuVariable.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.Resources.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.EN-UK.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.ES-LA.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.InfoLote.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.PT_BR.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileLote.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileLugar.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.SeleccionarMedio.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.AltaVehiculo.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.Damage.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.DatosDamage.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.DatosInspecc.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.DatosVehiculo.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.HistorialZonas.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuLotes.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuVehiculos.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.Mapa.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileDamage.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileInspeccion.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileVehiculo.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MovimientoZona.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.SeleccionZona.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.NuevaInspeccion.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.NuevoLote.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.SeleccionarLote.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.ViajeEnCurso.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.vbproj.GenerateResource.cache
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.vbproj.CoreCompileInputs.cache
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.vbproj.CopyComplete
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.xml
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.pdb
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaGrafica.dll.config
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaGrafica.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaGrafica.pdb
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaGrafica.xml
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\GMap.NET.Core.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\GMap.NET.WindowsForms.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaLogica.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\WebCAM.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\MessagingToolkit.QRCode.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaDatos.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaLogica.pdb
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaLogica.xml
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaDatos.pdb
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaDatos.xml
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.EscanerQR.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.NuevoTicket.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TicketMenu.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileMedio.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileTicket.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.AltaUser.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.EvaluacionTransportistas.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.ImportarVehiculos.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.cambioPass.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.configGrafica.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.acercaDe.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.configRed.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.configIdioma.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.ErrorCodes.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.Images.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.LoginVariable.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuPrincipal.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuVariable.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.Resources.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.EN-UK.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.ES-LA.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.InfoLote.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.PT_BR.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileLote.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileLugar.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.RestablecerPass.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.SeleccionarMedio.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.AltaVehiculo.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.Damage.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.DatosDamage.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.DatosInspecc.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.DatosVehiculo.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.HistorialZonas.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuLotes.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuZonas.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuVehiculos.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.Mapa.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileDamage.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileInspeccion.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileVehiculo.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.NuevaZona.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MovimientoZona.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.SeleccionZona.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.NuevaInspeccion.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.NuevoLote.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.SeleccionarLote.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.ViajeEnCurso.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.vbproj.GenerateResource.cache
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.vbproj.CoreCompileInputs.cache
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.vbproj.CopyComplete
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.xml
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.pdb
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.DatosNuevaInspeccion.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.NuevoTicket.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TicketMenu.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileTicket.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.EvaluacionTransportistas.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.RestablecerPass.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.DatosNuevaInspeccion.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuZonas.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.NuevaZona.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuUsuarios.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileUser.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.DatosUser.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuMediosTransporte.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.NuevoMedioTransporte.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.vbprojAssemblyReference.cache
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaGrafica.dll.config
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaGrafica.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaGrafica.pdb
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaGrafica.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\GMap.NET.Core.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\GMap.NET.WindowsForms.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaLogica.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\WebCAM.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\MessagingToolkit.QRCode.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaDatos.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaLogica.pdb
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaLogica.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaDatos.pdb
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaDatos.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.vbprojAssemblyReference.cache
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.DatosUser.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.EscanerQR.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.NuevoTicket.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TicketMenu.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileMedio.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileTicket.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileUser.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.AltaUser.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.EvaluacionTransportistas.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.ImportarVehiculos.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuUsuarios.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.cambioPass.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.configGrafica.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.acercaDe.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.configRed.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.configIdioma.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.ErrorCodes.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.Images.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.LoginVariable.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuPrincipal.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuVariable.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.Resources.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.EN-UK.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.ES-LA.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.InfoLote.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.PT_BR.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileLote.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileLugar.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.RestablecerPass.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.SeleccionarMedio.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.AltaVehiculo.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.Damage.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.DatosDamage.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.DatosInspecc.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.DatosVehiculo.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.DatosNuevaInspeccion.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.HistorialZonas.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuLotes.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuZonas.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuVehiculos.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuMediosTransporte.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.Mapa.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileDamage.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileInspeccion.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileVehiculo.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.NuevaZona.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.NuevoMedioTransporte.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MovimientoZona.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.SeleccionZona.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.NuevaInspeccion.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.NuevoLote.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.SeleccionarLote.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.ViajeEnCurso.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.vbproj.GenerateResource.cache
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.vbproj.CoreCompileInputs.cache
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.vbproj.CopyComplete
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.pdb
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaGrafica.dll.config
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaGrafica.dll
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaGrafica.pdb
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaGrafica.xml
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\GMap.NET.Core.dll
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\GMap.NET.WindowsForms.dll
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaLogica.dll
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\WebCAM.dll
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\MessagingToolkit.QRCode.dll
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaDatos.dll
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaLogica.pdb
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaLogica.xml
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaDatos.pdb
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\bin\x64\Debug\LibreriaDatos.xml
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.vbprojAssemblyReference.cache
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.DatosUser.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.EscanerQR.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.NuevoTicket.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TicketMenu.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileMedio.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileTicket.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileUser.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.AltaUser.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.EvaluacionTransportistas.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.ImportarVehiculos.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuUsuarios.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.cambioPass.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.configGrafica.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.acercaDe.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.configRed.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.configIdioma.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.ErrorCodes.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.Images.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.LoginVariable.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuPrincipal.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuVariable.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.Resources.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.EN-UK.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.ES-LA.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.InfoLote.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.PT_BR.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileLote.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileLugar.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.RestablecerPass.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.SeleccionarMedio.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.AltaMedioTransporte.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.AltaVehiculo.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.Damage.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.DatosDamage.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.DatosInspecc.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.DatosVehiculo.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.DatosNuevaInspeccion.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.HistorialZonas.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuLotes.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuZonas.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuVehiculos.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MenuMediosTransporte.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.Mapa.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileDamage.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileInspeccion.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.TileVehiculo.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.NuevaZona.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.NuevoMedioTransporte.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.MovimientoZona.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.SeleccionZona.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.NuevaInspeccion.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.NuevoLote.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.SeleccionarLote.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.ViajeEnCurso.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.vbproj.GenerateResource.cache
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.vbproj.CoreCompileInputs.cache
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.vbproj.CopyComplete
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.dll
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.xml
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaGrafica\obj\x64\Debug\LibreriaGrafica.pdb

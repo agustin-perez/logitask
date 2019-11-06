@@ -1,0 +1,213 @@
+C:\Users\tequi\source\repos\Proyecto\Principal\bin\Debug\Principal.exe.config
+C:\Users\tequi\source\repos\Proyecto\Principal\bin\Debug\Principal.exe
+C:\Users\tequi\source\repos\Proyecto\Principal\bin\Debug\Principal.pdb
+C:\Users\tequi\source\repos\Proyecto\Principal\bin\Debug\Principal.xml
+C:\Users\tequi\source\repos\Proyecto\Principal\obj\Debug\Principal.vbprojAssemblyReference.cache
+C:\Users\tequi\source\repos\Proyecto\Principal\obj\Debug\Principal.Resources.resources
+C:\Users\tequi\source\repos\Proyecto\Principal\obj\Debug\Principal.vbproj.GenerateResource.cache
+C:\Users\tequi\source\repos\Proyecto\Principal\obj\Debug\Principal.vbproj.CoreCompileInputs.cache
+C:\Users\tequi\source\repos\Proyecto\Principal\obj\Debug\Principal.exe
+C:\Users\tequi\source\repos\Proyecto\Principal\obj\Debug\Principal.xml
+C:\Users\tequi\source\repos\Proyecto\Principal\obj\Debug\Principal.pdb
+C:\Users\Guille\source\repos\Proyecto\Principal\obj\Debug\Principal.vbprojAssemblyReference.cache
+C:\Users\Guille\source\repos\Proyecto\Principal\obj\Debug\Principal.Form1.resources
+C:\Users\Guille\source\repos\Proyecto\Principal\obj\Debug\Principal.Form2.resources
+C:\Users\Guille\source\repos\Proyecto\Principal\obj\Debug\Principal.Resources.resources
+C:\Users\Guille\source\repos\Proyecto\Principal\obj\Debug\Principal.vbproj.GenerateResource.cache
+C:\Users\Guille\source\repos\Proyecto\Principal\obj\Debug\Principal.vbproj.CoreCompileInputs.cache
+C:\Users\Guille\source\repos\Proyecto\Principal\obj\Debug\Principal.exe
+C:\Users\Guille\source\repos\Proyecto\Principal\obj\Debug\Principal.xml
+C:\Users\Guille\source\repos\Proyecto\Principal\obj\Debug\Principal.pdb
+C:\Users\Guille\source\repos\Proyecto\Principal\bin\Debug\Principal.exe.config
+C:\Users\Guille\source\repos\Proyecto\Principal\bin\Debug\Principal.exe
+C:\Users\Guille\source\repos\Proyecto\Principal\bin\Debug\Principal.pdb
+C:\Users\Guille\source\repos\Proyecto\Principal\bin\Debug\Principal.xml
+C:\Users\tequi\source\repos\Proyecto\Principal\obj\Debug\Principal.operarioPuerto.resources
+C:\Users\alumno\Desktop\Proyecto\Principal\bin\Debug\Principal.exe.config
+C:\Users\alumno\Desktop\Proyecto\Principal\bin\Debug\Principal.exe
+C:\Users\alumno\Desktop\Proyecto\Principal\bin\Debug\Principal.pdb
+C:\Users\alumno\Desktop\Proyecto\Principal\bin\Debug\Principal.xml
+C:\Users\alumno\Desktop\Proyecto\Principal\obj\Debug\Principal.vbprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Proyecto\Principal\obj\Debug\Principal.operarioPuerto.resources
+C:\Users\alumno\Desktop\Proyecto\Principal\obj\Debug\Principal.Resources.resources
+C:\Users\alumno\Desktop\Proyecto\Principal\obj\Debug\Principal.vbproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Proyecto\Principal\obj\Debug\Principal.vbproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Proyecto\Principal\obj\Debug\Principal.exe
+C:\Users\alumno\Desktop\Proyecto\Principal\obj\Debug\Principal.xml
+C:\Users\alumno\Desktop\Proyecto\Principal\obj\Debug\Principal.pdb
+C:\Users\Guille\Desktop\Proyecto\Principal\bin\Debug\Principal.exe.config
+C:\Users\Guille\Desktop\Proyecto\Principal\bin\Debug\Principal.exe
+C:\Users\Guille\Desktop\Proyecto\Principal\bin\Debug\Principal.pdb
+C:\Users\Guille\Desktop\Proyecto\Principal\bin\Debug\Principal.xml
+C:\Users\Guille\Desktop\Proyecto\Principal\obj\Debug\Principal.vbprojAssemblyReference.cache
+C:\Users\Guille\Desktop\Proyecto\Principal\obj\Debug\Principal.operarioPatio.resources
+C:\Users\Guille\Desktop\Proyecto\Principal\obj\Debug\Principal.operarioPuerto.resources
+C:\Users\Guille\Desktop\Proyecto\Principal\obj\Debug\Principal.login.resources
+C:\Users\Guille\Desktop\Proyecto\Principal\obj\Debug\Principal.Resources.resources
+C:\Users\Guille\Desktop\Proyecto\Principal\obj\Debug\Principal.vbproj.GenerateResource.cache
+C:\Users\Guille\Desktop\Proyecto\Principal\obj\Debug\Principal.vbproj.CoreCompileInputs.cache
+C:\Users\Guille\Desktop\Proyecto\Principal\obj\Debug\Principal.exe
+C:\Users\Guille\Desktop\Proyecto\Principal\obj\Debug\Principal.xml
+C:\Users\Guille\Desktop\Proyecto\Principal\obj\Debug\Principal.pdb
+C:\Users\alumno\Downloads\Proyecto\Proyecto\Principal\bin\Debug\Principal.exe.config
+C:\Users\alumno\Downloads\Proyecto\Proyecto\Principal\bin\Debug\Principal.exe
+C:\Users\alumno\Downloads\Proyecto\Proyecto\Principal\bin\Debug\Principal.pdb
+C:\Users\alumno\Downloads\Proyecto\Proyecto\Principal\bin\Debug\Principal.xml
+C:\Users\alumno\Downloads\Proyecto\Proyecto\Principal\obj\Debug\Principal.vbprojAssemblyReference.cache
+C:\Users\alumno\Downloads\Proyecto\Proyecto\Principal\obj\Debug\Principal.operarioPatio.resources
+C:\Users\alumno\Downloads\Proyecto\Proyecto\Principal\obj\Debug\Principal.operarioPuerto.resources
+C:\Users\alumno\Downloads\Proyecto\Proyecto\Principal\obj\Debug\Principal.login.resources
+C:\Users\alumno\Downloads\Proyecto\Proyecto\Principal\obj\Debug\Principal.Resources.resources
+C:\Users\alumno\Downloads\Proyecto\Proyecto\Principal\obj\Debug\Principal.vbproj.GenerateResource.cache
+C:\Users\alumno\Downloads\Proyecto\Proyecto\Principal\obj\Debug\Principal.vbproj.CoreCompileInputs.cache
+C:\Users\alumno\Downloads\Proyecto\Proyecto\Principal\obj\Debug\Principal.exe
+C:\Users\alumno\Downloads\Proyecto\Proyecto\Principal\obj\Debug\Principal.xml
+C:\Users\alumno\Downloads\Proyecto\Proyecto\Principal\obj\Debug\Principal.pdb
+C:\Users\tequi\Desktop\Nueva carpeta\proyectobd-\Proyecto\Principal\obj\Debug\Principal.vbprojAssemblyReference.cache
+C:\Users\tequi\Desktop\Nueva carpeta\proyectobd-\Proyecto\Principal\obj\Debug\Principal.operarioPuerto.resources
+C:\Users\tequi\Desktop\Nueva carpeta\proyectobd-\Proyecto\Principal\obj\Debug\Principal.Resources.resources
+C:\Users\tequi\Desktop\Nueva carpeta\proyectobd-\Proyecto\Principal\obj\Debug\Principal.vbproj.GenerateResource.cache
+C:\Users\tequi\Desktop\Nueva carpeta\proyectobd-\Proyecto\Principal\obj\Debug\Principal.vbproj.CoreCompileInputs.cache
+C:\Users\tequi\Desktop\Nueva carpeta\proyectobd-\Proyecto\Principal\obj\Debug\Principal.exe
+C:\Users\tequi\Desktop\Nueva carpeta\proyectobd-\Proyecto\Principal\obj\Debug\Principal.xml
+C:\Users\tequi\Desktop\Nueva carpeta\proyectobd-\Proyecto\Principal\obj\Debug\Principal.pdb
+C:\Users\tequi\Desktop\Nueva carpeta\proyectobd-\Proyecto\Principal\bin\Debug\Principal.exe.config
+C:\Users\tequi\Desktop\Nueva carpeta\proyectobd-\Proyecto\Principal\bin\Debug\Principal.exe
+C:\Users\tequi\Desktop\Nueva carpeta\proyectobd-\Proyecto\Principal\bin\Debug\Principal.pdb
+C:\Users\tequi\Desktop\Nueva carpeta\proyectobd-\Proyecto\Principal\bin\Debug\Principal.xml
+C:\Users\tequi\Desktop\Nueva carpeta (2)\proyectobd-\Proyecto\Principal\bin\Debug\Principal.exe.config
+C:\Users\tequi\Desktop\Nueva carpeta (2)\proyectobd-\Proyecto\Principal\bin\Debug\Principal.exe
+C:\Users\tequi\Desktop\Nueva carpeta (2)\proyectobd-\Proyecto\Principal\bin\Debug\Principal.pdb
+C:\Users\tequi\Desktop\Nueva carpeta (2)\proyectobd-\Proyecto\Principal\bin\Debug\Principal.xml
+C:\Users\tequi\Desktop\Nueva carpeta (2)\proyectobd-\Proyecto\Principal\obj\Debug\Principal.vbprojAssemblyReference.cache
+C:\Users\tequi\Desktop\Nueva carpeta (2)\proyectobd-\Proyecto\Principal\obj\Debug\Principal.operarioPuerto.resources
+C:\Users\tequi\Desktop\Nueva carpeta (2)\proyectobd-\Proyecto\Principal\obj\Debug\Principal.Resources.resources
+C:\Users\tequi\Desktop\Nueva carpeta (2)\proyectobd-\Proyecto\Principal\obj\Debug\Principal.vbproj.GenerateResource.cache
+C:\Users\tequi\Desktop\Nueva carpeta (2)\proyectobd-\Proyecto\Principal\obj\Debug\Principal.vbproj.CoreCompileInputs.cache
+C:\Users\tequi\Desktop\Nueva carpeta (2)\proyectobd-\Proyecto\Principal\obj\Debug\Principal.exe
+C:\Users\tequi\Desktop\Nueva carpeta (2)\proyectobd-\Proyecto\Principal\obj\Debug\Principal.xml
+C:\Users\tequi\Desktop\Nueva carpeta (2)\proyectobd-\Proyecto\Principal\obj\Debug\Principal.pdb
+C:\Users\alumno\Desktop\sdasasd\proyectobd-\Proyecto\Principal\obj\Debug\Principal.vbprojAssemblyReference.cache
+C:\Users\alumno\Desktop\sdasasd\proyectobd-\Proyecto\Principal\obj\Debug\Principal.operarioPuerto.resources
+C:\Users\alumno\Desktop\sdasasd\proyectobd-\Proyecto\Principal\obj\Debug\Principal.Resources.resources
+C:\Users\alumno\Desktop\sdasasd\proyectobd-\Proyecto\Principal\obj\Debug\Principal.vbproj.GenerateResource.cache
+C:\Users\alumno\Desktop\sdasasd\proyectobd-\Proyecto\Principal\obj\Debug\Principal.vbproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\sdasasd\proyectobd-\Proyecto\Principal\obj\Debug\Principal.exe
+C:\Users\alumno\Desktop\sdasasd\proyectobd-\Proyecto\Principal\obj\Debug\Principal.xml
+C:\Users\alumno\Desktop\sdasasd\proyectobd-\Proyecto\Principal\obj\Debug\Principal.pdb
+C:\Users\alumno\Desktop\sdasasd\proyectobd-\Proyecto\Principal\bin\Debug\Principal.exe.config
+C:\Users\alumno\Desktop\sdasasd\proyectobd-\Proyecto\Principal\bin\Debug\Principal.exe
+C:\Users\alumno\Desktop\sdasasd\proyectobd-\Proyecto\Principal\bin\Debug\Principal.pdb
+C:\Users\alumno\Desktop\sdasasd\proyectobd-\Proyecto\Principal\bin\Debug\Principal.xml
+D:\proyectoUI\Proyecto\Principal\bin\Debug\Principal.exe.config
+D:\proyectoUI\Proyecto\Principal\bin\Debug\Principal.exe
+D:\proyectoUI\Proyecto\Principal\bin\Debug\Principal.pdb
+D:\proyectoUI\Proyecto\Principal\bin\Debug\Principal.xml
+D:\proyectoUI\Proyecto\Principal\obj\Debug\Principal.vbprojAssemblyReference.cache
+D:\proyectoUI\Proyecto\Principal\obj\Debug\Principal.operarioPuerto.resources
+D:\proyectoUI\Proyecto\Principal\obj\Debug\Principal.Resources.resources
+D:\proyectoUI\Proyecto\Principal\obj\Debug\Principal.vbproj.GenerateResource.cache
+D:\proyectoUI\Proyecto\Principal\obj\Debug\Principal.vbproj.CoreCompileInputs.cache
+D:\proyectoUI\Proyecto\Principal\obj\Debug\Principal.exe
+D:\proyectoUI\Proyecto\Principal\obj\Debug\Principal.xml
+D:\proyectoUI\Proyecto\Principal\obj\Debug\Principal.pdb
+C:\Users\tequi\Desktop\Proyecto\Principal\bin\Debug\Principal.exe.config
+C:\Users\tequi\Desktop\Proyecto\Principal\bin\Debug\Principal.exe
+C:\Users\tequi\Desktop\Proyecto\Principal\bin\Debug\Principal.pdb
+C:\Users\tequi\Desktop\Proyecto\Principal\bin\Debug\Principal.xml
+C:\Users\tequi\Desktop\Proyecto\Principal\obj\Debug\Principal.vbprojAssemblyReference.cache
+C:\Users\tequi\Desktop\Proyecto\Principal\obj\Debug\Principal.operarioPuerto.resources
+C:\Users\tequi\Desktop\Proyecto\Principal\obj\Debug\Principal.Resources.resources
+C:\Users\tequi\Desktop\Proyecto\Principal\obj\Debug\Principal.vbproj.GenerateResource.cache
+C:\Users\tequi\Desktop\Proyecto\Principal\obj\Debug\Principal.vbproj.CoreCompileInputs.cache
+C:\Users\tequi\Desktop\Proyecto\Principal\obj\Debug\Principal.exe
+C:\Users\tequi\Desktop\Proyecto\Principal\obj\Debug\Principal.xml
+C:\Users\tequi\Desktop\Proyecto\Principal\obj\Debug\Principal.pdb
+C:\Users\Guille\Desktop\GitProyecto\proyectobd-\Proyecto\Principal\obj\Debug\Principal.vbprojAssemblyReference.cache
+C:\Users\Guille\Desktop\GitProyecto\proyectobd-\Proyecto\Principal\obj\Debug\Principal.operarioPuerto.resources
+C:\Users\Guille\Desktop\GitProyecto\proyectobd-\Proyecto\Principal\obj\Debug\Principal.Resources.resources
+C:\Users\Guille\Desktop\GitProyecto\proyectobd-\Proyecto\Principal\obj\Debug\Principal.vbproj.GenerateResource.cache
+C:\Users\Guille\Desktop\GitProyecto\proyectobd-\Proyecto\Principal\obj\Debug\Principal.vbproj.CoreCompileInputs.cache
+C:\Users\Guille\Desktop\GitProyecto\proyectobd-\Proyecto\Principal\obj\Debug\Principal.exe
+C:\Users\Guille\Desktop\GitProyecto\proyectobd-\Proyecto\Principal\obj\Debug\Principal.xml
+C:\Users\Guille\Desktop\GitProyecto\proyectobd-\Proyecto\Principal\obj\Debug\Principal.pdb
+C:\Users\Guille\Desktop\GitProyecto\proyectobd-\Proyecto\Principal\bin\Debug\Principal.exe.config
+C:\Users\Guille\Desktop\GitProyecto\proyectobd-\Proyecto\Principal\bin\Debug\Principal.exe
+C:\Users\Guille\Desktop\GitProyecto\proyectobd-\Proyecto\Principal\bin\Debug\Principal.pdb
+C:\Users\Guille\Desktop\GitProyecto\proyectobd-\Proyecto\Principal\bin\Debug\Principal.xml
+C:\Users\Guille\Desktop\GitProyecto\proyectobd-\Proyecto\Principal\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Guille\Desktop\GitProyecto\proyectobd-\Proyecto\Principal\obj\Debug\Principal.vbproj.CopyComplete
+C:\Users\tequi\Desktop\Nueva carpeta\proyectobd-\Proyecto\Principal\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\tequi\Desktop\Nueva carpeta\proyectobd-\Proyecto\Principal\obj\Debug\Principal.vbproj.CopyComplete
+C:\Users\tequi\Desktop\Nueva carpeta\proyectobd-\Proyecto\Principal\obj\Debug\Principal.login.resources
+E:\Proyecto\Principal\bin\Debug\Principal.exe.config
+E:\Proyecto\Principal\bin\Debug\Principal.exe
+E:\Proyecto\Principal\bin\Debug\Principal.pdb
+E:\Proyecto\Principal\bin\Debug\Principal.xml
+E:\Proyecto\Principal\bin\Debug\MessagingToolkit.QRCode.dll
+E:\Proyecto\Principal\obj\Debug\Principal.vbprojAssemblyReference.cache
+E:\Proyecto\Principal\obj\Debug\Principal.login.resources
+E:\Proyecto\Principal\obj\Debug\Principal.operarioPuerto.resources
+E:\Proyecto\Principal\obj\Debug\Principal.Resources.resources
+E:\Proyecto\Principal\obj\Debug\Principal.vbproj.GenerateResource.cache
+E:\Proyecto\Principal\obj\Debug\Principal.vbproj.CoreCompileInputs.cache
+E:\Proyecto\Principal\obj\Debug\Principal.vbproj.CopyComplete
+E:\Proyecto\Principal\obj\Debug\Principal.exe
+E:\Proyecto\Principal\obj\Debug\Principal.xml
+E:\Proyecto\Principal\obj\Debug\Principal.pdb
+D:\Proyecto\Principal\bin\Debug\Principal.exe.config
+D:\Proyecto\Principal\bin\Debug\Principal.exe
+D:\Proyecto\Principal\bin\Debug\Principal.pdb
+D:\Proyecto\Principal\bin\Debug\Principal.xml
+D:\Proyecto\Principal\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Proyecto\Principal\obj\Debug\Principal.vbprojAssemblyReference.cache
+D:\Proyecto\Principal\obj\Debug\Principal.login.resources
+D:\Proyecto\Principal\obj\Debug\Principal.operarioPuerto.resources
+D:\Proyecto\Principal\obj\Debug\Principal.Resources.resources
+D:\Proyecto\Principal\obj\Debug\Principal.vbproj.GenerateResource.cache
+D:\Proyecto\Principal\obj\Debug\Principal.vbproj.CoreCompileInputs.cache
+D:\Proyecto\Principal\obj\Debug\Principal.vbproj.CopyComplete
+D:\Proyecto\Principal\obj\Debug\Principal.exe
+D:\Proyecto\Principal\obj\Debug\Principal.xml
+D:\Proyecto\Principal\obj\Debug\Principal.pdb
+E:\Proyecto\Principal\obj\Debug\Principal.operarioPatio.resources
+E:\Proyecto\Principal\obj\Debug\Principal.transportista.resources
+D:\Proyecto\Principal\obj\Debug\Principal.administrador.resources
+D:\Proyecto\Principal\obj\Debug\Principal.operarioPatio.resources
+D:\Proyecto\Principal\obj\Debug\Principal.transportista.resources
+C:\Users\agusa\Desktop\proyectobd-\Prog\Principal\bin\Debug\Principal.exe.config
+C:\Users\agusa\Desktop\proyectobd-\Prog\Principal\bin\Debug\Principal.exe
+C:\Users\agusa\Desktop\proyectobd-\Prog\Principal\bin\Debug\Principal.pdb
+C:\Users\agusa\Desktop\proyectobd-\Prog\Principal\bin\Debug\Principal.xml
+C:\Users\agusa\Desktop\proyectobd-\Prog\Principal\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\agusa\Desktop\proyectobd-\Prog\Principal\obj\Debug\Principal.vbprojAssemblyReference.cache
+C:\Users\agusa\Desktop\proyectobd-\Prog\Principal\obj\Debug\Principal.administrador.resources
+C:\Users\agusa\Desktop\proyectobd-\Prog\Principal\obj\Debug\Principal.operarioPatio.resources
+C:\Users\agusa\Desktop\proyectobd-\Prog\Principal\obj\Debug\Principal.login.resources
+C:\Users\agusa\Desktop\proyectobd-\Prog\Principal\obj\Debug\Principal.operarioPuerto.resources
+C:\Users\agusa\Desktop\proyectobd-\Prog\Principal\obj\Debug\Principal.Resources.resources
+C:\Users\agusa\Desktop\proyectobd-\Prog\Principal\obj\Debug\Principal.transportista.resources
+C:\Users\agusa\Desktop\proyectobd-\Prog\Principal\obj\Debug\Principal.vbproj.GenerateResource.cache
+C:\Users\agusa\Desktop\proyectobd-\Prog\Principal\obj\Debug\Principal.vbproj.CoreCompileInputs.cache
+C:\Users\agusa\Desktop\proyectobd-\Prog\Principal\obj\Debug\Principal.vbproj.CopyComplete
+C:\Users\agusa\Desktop\proyectobd-\Prog\Principal\obj\Debug\Principal.exe
+C:\Users\agusa\Desktop\proyectobd-\Prog\Principal\obj\Debug\Principal.xml
+C:\Users\agusa\Desktop\proyectobd-\Prog\Principal\obj\Debug\Principal.pdb
+C:\Users\agusa\Desktop\slta\Proyectos editables\Fertspa\Principal\obj\Debug\Principal.vbprojAssemblyReference.cache
+C:\Users\agusa\Desktop\slta\Proyectos editables\Fertspa\Principal\obj\Debug\Principal.administrador.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\Fertspa\Principal\obj\Debug\Principal.operarioPatio.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\Fertspa\Principal\obj\Debug\Principal.login.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\Fertspa\Principal\obj\Debug\Principal.operarioPuerto.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\Fertspa\Principal\obj\Debug\Principal.Resources.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\Fertspa\Principal\obj\Debug\Principal.transportista.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\Fertspa\Principal\obj\Debug\Principal.vbproj.GenerateResource.cache
+C:\Users\agusa\Desktop\slta\Proyectos editables\Fertspa\Principal\obj\Debug\Principal.vbproj.CoreCompileInputs.cache
+C:\Users\agusa\Desktop\slta\Proyectos editables\Fertspa\Principal\obj\Debug\Principal.exe
+C:\Users\agusa\Desktop\slta\Proyectos editables\Fertspa\Principal\obj\Debug\Principal.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\Fertspa\Principal\obj\Debug\Principal.pdb
+C:\Users\agusa\Desktop\slta\Proyectos editables\Fertspa\Principal\bin\Debug\Principal.exe.config
+C:\Users\agusa\Desktop\slta\Proyectos editables\Fertspa\Principal\bin\Debug\Principal.exe
+C:\Users\agusa\Desktop\slta\Proyectos editables\Fertspa\Principal\bin\Debug\Principal.pdb
+C:\Users\agusa\Desktop\slta\Proyectos editables\Fertspa\Principal\bin\Debug\Principal.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\Fertspa\Principal\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\Fertspa\Principal\obj\Debug\Principal.vbproj.CopyComplete

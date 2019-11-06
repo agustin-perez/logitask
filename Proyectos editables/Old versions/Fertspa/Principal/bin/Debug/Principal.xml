@@ -1,0 +1,96 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Principal
+</name>
+</assembly>
+<members>
+<member name="T:Principal.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.MessagingToolkit_QRCode">
+<summary>
+  Busca un recurso adaptado de tipo System.Byte[].
+</summary>
+</member>
+<member name="T:Principal.vehiculos">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Principal.vehiculos.vehiculoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Principal.vehiculos.vehiculoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Principal.vehiculos.vehiculoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Principal.vehiculosTableAdapters.vehiculoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Principal.vehiculosTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Principal.vehiculosTableAdapters.TableAdapterManager.UpdateUpdatedRows(Principal.vehiculos,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Principal.vehiculosTableAdapters.TableAdapterManager.UpdateInsertedRows(Principal.vehiculos,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Principal.vehiculosTableAdapters.TableAdapterManager.UpdateDeletedRows(Principal.vehiculos,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Principal.vehiculosTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Principal.vehiculosTableAdapters.TableAdapterManager.UpdateAll(Principal.vehiculos)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Principal.vehiculosTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Principal.vehiculosTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

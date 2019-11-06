@@ -1,0 +1,490 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LibreriaGrafica
+</name>
+</assembly>
+<members>
+<member name="T:LibreriaGrafica.My.Resources.ErrorCodes">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.ErrorCodes.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.ErrorCodes.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.ErrorCodes.ErrorConexion">
+<summary>
+  Busca una cadena traducida similar a 0x00001.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.ErrorCodes.Example">
+<summary>
+  Busca una cadena traducida similar a 0x00000.
+</summary>
+</member>
+<member name="T:LibreriaGrafica.My.Resources.Images">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.Images.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.Images.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.Images.autoEstandar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.Images.autoEstandarThumbnail">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.Images.barco">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Icon similar a (Icono).
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.Images.cfgLogoBlack">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.Images.cfgLogoWhite">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.Images.damage">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.Images.inspeccionIcon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.Images.isologo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.Images.logofertspa">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:LibreriaGrafica.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.Resources.camion">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.Resources.inspeccionIcon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.Resources.suv_jammy__1351219">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:LibreriaGrafica.My.Resources.EN_UK">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.EN_UK.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.EN_UK.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.EN_UK.ButtonLogin">
+<summary>
+  Busca una cadena traducida similar a Sign In.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.EN_UK.COMIENZOLOGIN">
+<summary>
+  Busca una cadena traducida similar a -----------------------------------------------.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.EN_UK.ErrorMsg">
+<summary>
+  Busca una cadena traducida similar a Wrong username or password.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.EN_UK.Pass">
+<summary>
+  Busca una cadena traducida similar a Password:.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.EN_UK.ResetPass">
+<summary>
+  Busca una cadena traducida similar a Reset your password.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.EN_UK.UserName">
+<summary>
+  Busca una cadena traducida similar a User Name:.
+</summary>
+</member>
+<member name="T:LibreriaGrafica.My.Resources.ES_LA">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.ES_LA.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.ES_LA.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.ES_LA.ButtonLogin">
+<summary>
+  Busca una cadena traducida similar a Iniciar sesión.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.ES_LA.Error1">
+<summary>
+  Busca una cadena traducida similar a .
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.ES_LA.ErrorMsg">
+<summary>
+  Busca una cadena traducida similar a Nombre de usuario o contraseña incorrectos.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.ES_LA.NuevaInspeccion_btn_qr1">
+<summary>
+  Busca una cadena traducida similar a Inspeccionar desde QR.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.ES_LA.NuevaInspeccion_btn_vin">
+<summary>
+  Busca una cadena traducida similar a Inspeccionar desde VIN.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.ES_LA.Pass">
+<summary>
+  Busca una cadena traducida similar a Contraseña: .
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.ES_LA.ResetPass">
+<summary>
+  Busca una cadena traducida similar a Restablecer contraseña.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.ES_LA.UserName">
+<summary>
+  Busca una cadena traducida similar a Nombre de usuario: .
+</summary>
+</member>
+<member name="T:LibreriaGrafica.My.Resources.PT_BR">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.PT_BR.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.PT_BR.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.PT_BR.ButtonLogin">
+<summary>
+  Busca una cadena traducida similar a kkkkkkkkkkkkkk.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.PT_BR.COMIENZOLOGIN">
+<summary>
+  Busca una cadena traducida similar a -----------------------------------------------.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.PT_BR.ErrorMsg">
+<summary>
+  Busca una cadena traducida similar a KKKKKKKKKK.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.PT_BR.Pass">
+<summary>
+  Busca una cadena traducida similar a kkkkkkkkkkkkkk.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.PT_BR.ResetPass">
+<summary>
+  Busca una cadena traducida similar a kkkkkkkkkkkkk.
+</summary>
+</member>
+<member name="P:LibreriaGrafica.My.Resources.PT_BR.UserName">
+<summary>
+  Busca una cadena traducida similar a FALTA KKKKKKKKK.
+</summary>
+</member>
+<member name="M:LibreriaGrafica.propiedadesVentanas.CargarVentana(System.Windows.Forms.Panel,System.Windows.Forms.Form)">
+ <summary>
+ Subrutina encargada de cargar ventanas interiormente al panel enviado por parámetros.
+ </summary>
+ <param name="ventana">Panel al que se le cargará la ventana.</param>
+ <param name="formInterno">Ventana interna que se cargará en ventana.</param>
+</member>
+<member name="M:LibreriaGrafica.propiedadesVentanas.CargarLogo(LibreriaGrafica.propiedadesVentanas.FertspaLogo)">
+ <summary>
+ Subrutina encargada de cargar el logo principal del Login.
+ </summary>
+</member>
+<member name="T:LibreriaGrafica.propiedadesVentanas.FertspaLogo">
+ <summary>
+ Enum encargado de dar un ID de Logo.
+ </summary>>
+</member>
+<member name="T:LibreriaGrafica.DatosDamage">
+ <summary>
+ Clase encargada de mostrar la información detallada de un vehículo especificado desde una tupla por parámetros.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.DatosDamage.#ctor(System.Data.DataRow)">
+ <summary>
+ Constructor específico encargado de inicializar la instancia de la clase y tomar como parámetro una tupla conteniendo los datos del vehículo a mostrar los detalles.
+ </summary>
+ <param name="fila">Tupla conteniendo todos los datos del vehículo en cuestión.</param>
+</member>
+<member name="M:LibreriaGrafica.DatosDamage.CargarNumeroDamage">
+ <summary>
+ Subrutina encargada de extraer el campo de numeroDamage de la tupla en cuestión.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.DatosDamage.CargarDesc">
+ <summary>
+ Subrutina encargada de extraer el campo de la descripción de la tupla en cuestión.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.DatosDamage.CargarImagen">
+ <summary>
+ Subrutina encargada de extraer la imagen de la tupla en cuestión.
+ </summary>
+</member>
+<member name="T:LibreriaGrafica.DatosInspecc">
+ <summary>
+ Clase encargada de mostrar la información detallada de un vehículo especificado desde una tupla por parámetros.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.DatosInspecc.#ctor(System.Data.DataRow)">
+ <summary>
+ Constructor específico encargado de inicializar la instancia de la clase y tomar como parámetro una tupla conteniendo los datos del vehículo a mostrar los detalles.
+ </summary>
+ <param name="fila">Tupla conteniendo todos los datos del vehículo en cuestión.</param>
+</member>
+<member name="M:LibreriaGrafica.DatosInspecc.CargarNumeroInspec">
+ <summary>
+ Subrutina encargada de extraer el campo de numeroInspec de la tupla en cuestión.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.DatosInspecc.CargarUsername">
+ <summary>
+ Subrutina encargada de extraer el campo del Usuario responsable de la tupla en cuestión.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.DatosInspecc.CargarLugar">
+ <summary>
+ Subrutina encargada de extraer el campo de Lugar de la tupla en cuestión.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.DatosInspecc.CargarDate">
+ <summary>
+ Subrutina encargada de extraer el campo de la Fecha de la tupla en cuestión.
+ </summary>
+</member>
+<member name="T:LibreriaGrafica.DatosVehiculo">
+ <summary>
+ Clase encargada de mostrar la información detallada de un vehículo especificado desde una tupla por parámetros.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.DatosVehiculo.#ctor(System.Data.DataRow)">
+ <summary>
+ Constructor específico encargado de inicializar la instancia de la clase y tomar como parámetro una tupla conteniendo los datos del vehículo a mostrar los detalles.
+ </summary>
+ <param name="fila">Tupla conteniendo todos los datos del vehículo en cuestión.</param>
+</member>
+<member name="M:LibreriaGrafica.DatosVehiculo.CargarVIN">
+ <summary>
+ Subrutina encargada de extraer el campo de VIN (Vehicle Identification Number) de la tupla en cuestión.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.DatosVehiculo.CargarMarca">
+ <summary>
+ Subrutina encargada de extraer el campo de Marca de la tupla en cuestión.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.DatosVehiculo.CargarModelo">
+ <summary>
+ Subrutina encargada de extraer el campo de Modelo de la tupla en cuestión.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.DatosVehiculo.CargarYear">
+ <summary>
+ Subrutina encargada de extraer el campo de Año de la tupla en cuestión.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.DatosVehiculo.CargarColor">
+ <summary>
+ Subrutina encargada de extraer el campo de Color de la tupla en cuestión.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.DatosVehiculo.CargarTipo">
+ <summary>
+ Subrutina encargada de extraer el campo de Tipo de la tupla en cuestión. 
+ </summary>
+</member>
+<member name="T:LibreriaGrafica.TileDamage">
+ <summary>
+ Clase encargada de mostrar una miniatura de una inspección con información resumida. Esta reacciona a eventos de Click con parámetros.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.TileDamage.#ctor(System.Data.DataRow)">
+ <summary>
+ Constructor específico que inicializa los getteos de datos sobre una tupla dada por parámetros.
+ </summary>
+ <param name="fila">Tupla conteniendo los datos a mostrar.</param>
+</member>
+<member name="M:LibreriaGrafica.TileDamage.CargarDatosDamage">
+ <summary>
+ Subrutina encargada de cerrar el formulario para que la clase padre tome el evento y así realizar la accion necesaria.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.TileDamage.CargarNumeroDanio">
+ <summary>
+ Subrutina encargada de rellenar el label de número de daño con los datos de la tupla.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.TileDamage.CargarDesc">
+ <summary>
+ Subrutina encargada de rellenar el label de la descripción con los datos de la tupla.
+ </summary>
+</member>
+<member name="T:LibreriaGrafica.TileInspeccion">
+ <summary>
+ Clase encargada de mostrar una miniatura de una inspección con información resumida. Esta reacciona a eventos de Click con parámetros.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.TileInspeccion.#ctor(System.Data.DataRow)">
+ <summary>
+ Constructor específico que inicializa los getteos de datos sobre una tupla dada por parámetros.
+ </summary>
+ <param name="fila">Tupla conteniendo los datos a mostrar.</param>
+</member>
+<member name="M:LibreriaGrafica.TileInspeccion.CargarDatosInspecc">
+ <summary>
+ Subrutina encargada de cerrar el formulario para que la clase padre tome el evento y así realizar la accion necesaria.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.TileInspeccion.RecursosIconos">
+ <summary>
+ Subrutina encargada de cambiar el recurso de ícono a rojo si tiene daño, o negro si no tiene.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.TileInspeccion.CargarNumeroInspec">
+ <summary>
+ Subrutina encargada de rellenar el label de número de inspección con los datos de la tupla.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.TileInspeccion.CargarAutor">
+ <summary>
+ Subrutina encargada de rellenar el label del autor con los datos de la tupla.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.TileInspeccion.CargarFecha">
+ <summary>
+ Subrutina encargada de rellenar el label de Fecha con los datos de la tupla.
+ </summary>
+</member>
+<member name="T:LibreriaGrafica.TileVehiculo">
+ <summary>
+ Clase encargada de mostrar una miniatura de un vehículo con información resumida. Esta reacciona a eventos de Click con parámetros.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.TileVehiculo.#ctor(System.Data.DataRow,LibreriaGrafica.TileVehiculo.TileActionOnClick)">
+ <summary>
+ Constructor específico que inicializa los getteos de datos sobre una tupla dada por parámetros.
+ </summary>
+ <param name="fila">Tupla conteniendo los datos a mostrar.</param>
+ <param name="accion">Tipo de acción que desencadena el click sobre el tile. Administrado por un Enum.</param>
+</member>
+<member name="T:LibreriaGrafica.TileVehiculo.TileActionOnClick">
+ <summary>
+ Enumerador encargado de administrar las acciones por parámetros.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.TileVehiculo.RecursosIconos">
+ <summary>
+ Subrutina encargada de cambiar el recurso de ícono con los datos de tipo de vehículo que contiene la tupla.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.TileVehiculo.CargarVin">
+ <summary>
+ Subrutina encargada de rellenar el label de VIN (Vehicle Identification Number) con los datos de la tupla.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.TileVehiculo.CargarMarca">
+ <summary>
+ Subrutina encargada de rellenar el label de marca con los datos de la tupla.
+ </summary>
+</member>
+<member name="M:LibreriaGrafica.TileVehiculo.CargarModelo">
+ <summary>
+ Subrutina encargada de rellenar el label de modelo con los datos de la tupla.
+ </summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,135 @@
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\SltaAdmin.exe
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\SltaAdmin.pdb
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\SltaAdmin.xml
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaDatos.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaGrafica.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaLogica.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\WebCAM.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\GMap.NET.WindowsForms.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\GMap.NET.Core.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\MessagingToolkit.QRCode.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaDatos.pdb
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaDatos.xml
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaGrafica.pdb
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaGrafica.xml
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaGrafica.dll.config
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaLogica.pdb
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaLogica.xml
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.vbprojAssemblyReference.cache
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.Images.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.Main.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.Resources.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.vbproj.GenerateResource.cache
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.vbproj.CoreCompileInputs.cache
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.vbproj.CopyComplete
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.exe
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.xml
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.pdb
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\SltaAdmin.exe
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\SltaAdmin.pdb
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\SltaAdmin.xml
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaDatos.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaGrafica.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaLogica.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\WebCAM.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\GMap.NET.WindowsForms.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\GMap.NET.Core.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\MessagingToolkit.QRCode.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaDatos.pdb
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaDatos.xml
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaGrafica.pdb
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaGrafica.xml
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaGrafica.dll.config
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaLogica.pdb
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaLogica.xml
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.vbprojAssemblyReference.cache
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.Images.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.Main.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.Resources.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.vbproj.GenerateResource.cache
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.vbproj.CoreCompileInputs.cache
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.vbproj.CopyComplete
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.exe
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.xml
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.pdb
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.vbprojAssemblyReference.cache
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.Main.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.Resources.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.vbproj.GenerateResource.cache
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.exe
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.xml
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.pdb
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\SltaAdmin.exe
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\SltaAdmin.pdb
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\SltaAdmin.xml
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaDatos.dll
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaGrafica.dll
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaLogica.dll
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\WebCAM.dll
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\GMap.NET.WindowsForms.dll
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\GMap.NET.Core.dll
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\MessagingToolkit.QRCode.dll
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaDatos.pdb
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaDatos.xml
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaGrafica.pdb
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaGrafica.xml
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaGrafica.dll.config
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaLogica.pdb
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaLogica.xml
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.Images.resources
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.vbproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.vbproj.CopyComplete
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\SltaAdmin.exe
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\SltaAdmin.pdb
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\SltaAdmin.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaDatos.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaGrafica.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaLogica.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\WebCAM.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\GMap.NET.WindowsForms.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\GMap.NET.Core.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\MessagingToolkit.QRCode.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaDatos.pdb
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaDatos.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaGrafica.pdb
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaGrafica.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaGrafica.dll.config
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaLogica.pdb
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaLogica.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.vbprojAssemblyReference.cache
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.Images.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.Main.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.Resources.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.vbproj.GenerateResource.cache
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.vbproj.CoreCompileInputs.cache
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.vbproj.CopyComplete
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.exe
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.pdb
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\SltaAdmin.exe
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\SltaAdmin.pdb
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\SltaAdmin.xml
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaDatos.dll
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaGrafica.dll
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaLogica.dll
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\WebCAM.dll
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\GMap.NET.WindowsForms.dll
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\GMap.NET.Core.dll
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\MessagingToolkit.QRCode.dll
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaDatos.pdb
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaDatos.xml
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaGrafica.pdb
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaGrafica.xml
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaGrafica.dll.config
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaLogica.pdb
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\bin\x64\Debug\LibreriaLogica.xml
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.vbprojAssemblyReference.cache
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.Images.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.Main.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.Resources.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.vbproj.GenerateResource.cache
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.vbproj.CoreCompileInputs.cache
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.vbproj.CopyComplete
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.exe
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.xml
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\SltaAdmin\SltaAdmin\obj\x64\Debug\SltaAdmin.pdb

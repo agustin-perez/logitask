@@ -1,0 +1,11 @@
+[ODBC]
+DRIVER={IBM INFORMIX ODBC DRIVER (64-bit)}
+UID=jsullcaray
+PWD=EP 12 22  7 24 31 19  0 70 82 75 49  0  0  0  0  0  0  0
+DATABASE=logitask
+HOST=fertspa.tplinkdns.com
+SERVER=aperezIBM
+SERVICE=9088
+PROTOCOL=onsoctcp
+CLIENT_LOCALE=en_US.CP1252
+DB_LOCALE=en_US.819

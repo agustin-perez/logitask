@@ -1,0 +1,15 @@
+[Unit]
+Description=Administrador de arranque y cierre de Informix
+
+[Service]
+User=informix
+ExecStart=/etc/informix/abrir.sh
+ExecStop=/etc/informix/cerrar.sh
+TimeoutSec=30
+Restart=on-failure
+RestartSec=30
+StartLimitInterval=350
+StartLimitBurst=10
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,60 @@
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaLogica.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaLogica.pdb
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaLogica.xml
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaDatos.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\MessagingToolkit.QRCode.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaDatos.pdb
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaDatos.xml
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.vbprojAssemblyReference.cache
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.Resources.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.vbproj.GenerateResource.cache
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.vbproj.CoreCompileInputs.cache
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.vbproj.CopyComplete
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.xml
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.pdb
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaLogica.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaLogica.pdb
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaLogica.xml
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaDatos.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\MessagingToolkit.QRCode.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaDatos.pdb
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaDatos.xml
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.Resources.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.vbproj.GenerateResource.cache
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.vbproj.CoreCompileInputs.cache
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.vbproj.CopyComplete
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.xml
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.pdb
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.vbprojAssemblyReference.cache
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaLogica.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaLogica.pdb
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaLogica.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaDatos.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\MessagingToolkit.QRCode.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaDatos.pdb
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaDatos.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.vbprojAssemblyReference.cache
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.Resources.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.vbproj.GenerateResource.cache
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.vbproj.CoreCompileInputs.cache
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.vbproj.CopyComplete
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.pdb
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaLogica.dll
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaLogica.pdb
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaLogica.xml
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaDatos.dll
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\MessagingToolkit.QRCode.dll
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaDatos.pdb
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaLogica\bin\x64\Debug\LibreriaDatos.xml
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.vbprojAssemblyReference.cache
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.Resources.resources
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.vbproj.GenerateResource.cache
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.vbproj.CoreCompileInputs.cache
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.vbproj.CopyComplete
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.dll
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.xml
+C:\Users\agusa\Desktop\Nueva carpeta (2)\slta\Proyectos editables\LibreriaLogica\obj\x64\Debug\LibreriaLogica.pdb

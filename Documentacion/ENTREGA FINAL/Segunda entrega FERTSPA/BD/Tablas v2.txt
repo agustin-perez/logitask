@@ -1,0 +1,136 @@
+create table usuario(
+nombreUser	varchar(45)	not null,
+contraseña	varchar(45),
+nombre		varchar(45),
+apellido	varchar(45),
+primary key(nombreUser));
+
+
+create table tel_usuario(
+nombreUser	varchar(45) 	not null,
+telefono	integer		not null,
+primary key(nombreUser,telefono));
+
+
+create table transportista(
+nombreTransp	varchar(45)	not null,
+primary key(nombbreTransp));
+
+
+create table operario(
+nombreOp	varchar(45)	not null,
+tipo		varchar(45),
+primary key(nombreOp));
+
+
+create table admin(
+nombreAdmin	varchar(45)	not null,
+primary key(nombreAdmin));
+
+
+create table dispara(
+NroEmbarque	varchar(45)	not null,
+nombreTransp	varchar(45),	
+horaSalida	datetime hour to minute,		
+horaLlegadaEsperada	datetime hour to minute,
+primary key(NroEmbarque));
+
+
+create embarque(
+NroEmbarque	varchar(45)	not null,
+medio		varchar(45),
+HoraLlegadaReal	datetime hour to minute,
+primary key(NroEmbarque));
+
+
+create table se_dirige(
+NroEmbarque	integer		not null,
+codigoPatio	varchar(45),
+primary key(NroEmbarque));
+		
+
+create table traslada(
+codigoLote	varchar(45)	not null,
+NroEmarque	varchar(45),
+primary key(codigoLote));
+
+
+create table lote(
+codigoLote	varchar(45)	not null,
+creador		varchar(45),
+descripcion	varchar(200),
+primary key(codigoLote));
+	
+
+create table lugar(
+codigoPatio	varchar(45)	not null,
+nombre		varchar(45),	
+capacidad	varchar(45),
+descripcion	varchar(200),
+primary key(codigoPatio));
+
+
+create table tiene(
+subZona		varchar(45)	not null,
+zona		varchar(45),
+cantidadVehiculo	integer,
+primary key(subZona));
+
+
+create table posee(
+codigoPatio	varchar(45)	not null,
+VIN		varchar(17)	not null,
+nombreOp	varchar(45),	
+fechaInic	date,
+fechaFin	date,
+horaInic	datetime hour to minute,
+horaFin		datetime hour to minute,
+ubicacionEstado	 varchar(45),
+primary key(codigoPatio,VIN));
+
+
+create table vehiculo(
+VIN		varchar(17)	 	not null,
+color		varchar(20)		
+marca		varchar(45),
+modelo		varchar(45),
+anio		integer,
+tipo		varchar(45),
+primary key(VIN));
+
+
+create table estado_vehiculo(
+VIN		varchar(17) 	not null,
+estado		varchar(45)	not null,
+primary key(VIN,estado));
+
+
+create table contiene(
+VIN		varchar(17)	not null,
+codigoInsp	varchar(45)	not null,
+nombreOp	varchar(45)	not null,
+primary key(VIN,codigoInsp,nombreOp));
+
+
+create table inspeccion(
+nombreOp	varchar(45)	not null,
+codigoInsp	varchar(45)	not null,
+horaInic	datetime hour to minute,	
+horaFin		datetime hour to minute,
+fechaInic	date,
+fechaFin	date,
+lugar		varchar(45),
+primary key(nombreOp,codigoInsp));
+
+
+create table img_inspeccion(
+codigoInsp	varchar(45)	 not null,
+imagen		varchar(100)	 not null,
+primary key(codigoInsp,imagen));
+
+
+create table danio_inspeccion(
+codigoInsp	varchar(45)		not null,
+danio		varchar(200)		not null,
+descripcionDanio 	varchar(200),
+primary key(codigoInsp,danio));

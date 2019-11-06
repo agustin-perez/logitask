@@ -1,0 +1,89 @@
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\bin\x64\Debug\SltaTransportista.exe.config
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\bin\x64\Debug\SltaTransportista.exe
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\bin\x64\Debug\SltaTransportista.pdb
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\bin\x64\Debug\SltaTransportista.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaGrafica.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaLogica.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaDatos.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaGrafica.pdb
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaGrafica.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaGrafica.dll.config
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaLogica.pdb
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaLogica.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaDatos.pdb
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaDatos.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.Main.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.Resources.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.vbproj.GenerateResource.cache
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.vbproj.CoreCompileInputs.cache
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.vbproj.CopyComplete
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.exe
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.pdb
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.vbprojAssemblyReference.cache
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.Images.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.TileLote.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.VerLote.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\bin\x64\Debug\GMap.NET.Core.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\bin\x64\Debug\GMap.NET.WindowsForms.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\bin\x64\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.DatosLote.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\Adaptacion en curso\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.ViajeEnCurso.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\SltaTransportista.exe.config
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\SltaTransportista.exe
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\SltaTransportista.pdb
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\SltaTransportista.xml
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\GMap.NET.Core.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\GMap.NET.WindowsForms.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaGrafica.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaLogica.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaDatos.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaGrafica.pdb
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaGrafica.xml
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaGrafica.dll.config
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaLogica.pdb
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaLogica.xml
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaDatos.pdb
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaDatos.xml
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.vbprojAssemblyReference.cache
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.Images.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.Main.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.Resources.resources
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.vbproj.GenerateResource.cache
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.vbproj.CoreCompileInputs.cache
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.vbproj.CopyComplete
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.exe
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.xml
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.pdb
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\SltaTransportista.exe.config
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\SltaTransportista.exe
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\SltaTransportista.pdb
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\SltaTransportista.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\GMap.NET.Core.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\GMap.NET.WindowsForms.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaGrafica.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaLogica.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaDatos.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaGrafica.pdb
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaGrafica.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaGrafica.dll.config
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaLogica.pdb
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaLogica.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaDatos.pdb
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\LibreriaDatos.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.vbprojAssemblyReference.cache
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.Images.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.Main.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.Resources.resources
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.vbproj.GenerateResource.cache
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.vbproj.CoreCompileInputs.cache
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.vbproj.CopyComplete
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.exe
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.xml
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\obj\x64\Debug\SltaTransportista.pdb
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\WebCAM.dll
+C:\Users\agusa\Desktop\Escritorio\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\MessagingToolkit.QRCode.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\WebCAM.dll
+C:\Users\agusa\Desktop\slta\Proyectos editables\SltaTransportista\SltaTransportista\bin\x64\Debug\MessagingToolkit.QRCode.dll

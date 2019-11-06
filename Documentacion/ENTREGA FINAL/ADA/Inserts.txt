@@ -1,0 +1,32 @@
+/* subLugar - 8 inserts */
+
+
+INSERT INTO subLugar VALUES ("0","0");
+
+INSERT INTO subLugar VALUES ("1","1");
+
+INSERT INTO subLugar VALUES ("2","2");
+
+INSERT INTO subLugar VALUES ("3","3");
+
+INSERT INTO subLugar VALUES ("4","4");
+
+INSERT INTO subLugar VALUES ("5","5");
+
+INSERT INTO subLugar VALUES ("6","6");
+
+INSERT INTO subLugar VALUES ("7","7");
+
+
+/* subLugarVehiculo - 5 inserts */
+
+
+INSERT INTO subLugarVehiculo VALUES ("JH4DA175XGS009825","0","polezter","16:36:22.071");
+
+INSERT INTO subLugarVehiculo VALUES ("WP0CD2A91BS773285","1","kira1990","12:33:00.099");
+
+INSERT INTO subLugarVehiculo VALUES ("JH4KA2650HC000268","2","victor250801","14:14:32.092");
+
+INSERT INTO subLugarVehiculo VALUES ("SCFAB22311K301756","3","kira1990","18:52:11.099");
+
+INSERT INTO subLugarVehiculo VALUES ("JT2BG22K3Y0485107","4","victor250801","10:30:56.021");

@@ -1,0 +1,174 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LibreriaDatos
+</name>
+</assembly>
+<members>
+<member name="T:LibreriaDatos.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:LibreriaDatos.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:LibreriaDatos.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="T:LibreriaDatos.Cargar">
+ <summary>
+ Clase encargada de abir archivos en texto plano y/o obtener rutas.
+ </summary>
+</member>
+<member name="F:LibreriaDatos.Cargar.rutaActual">
+ <summary>
+ Guardamos la ruta actual para poder consultarla luego de ser necesario.
+ </summary>
+</member>
+<member name="M:LibreriaDatos.Cargar.ObtenerRuta(System.String,System.String,System.String)">
+ <summary>
+ Función encargada de obtener una ruta de archivo mediante un OpenFileDialog.
+ </summary>
+ <param name="nombreArchivo">Nombre del archivo que aparecerá en el cuadro de texto del OpenFileDialog.</param>
+ <param name="nombreTipoDeDato">Tipo de dato que aparecerá en el ComboBox de extensiones en el OpenFileDialog.</param>
+ <param name="extension">Extensión del archivo a obtener su ruta, del tipo (ejemplo) "dsn", sin puntos ni asteriscos.</param>
+ <returns>Ruta del archivo.</returns>
+</member>
+<member name="M:LibreriaDatos.Cargar.LeerArchivo(System.String)">
+ <summary>
+ Función encargada de leer todas las líneas del archivo solicitado mediante su ruta. Puede lanzar una excepción en tiempo de ejecución si no se logró leer el archivo correctamente.
+ </summary>
+ <param name="ruta">Ruta del archivo a leer.</param>
+ <returns>Array de String con todas las líneas del archivo.</returns>
+</member>
+<member name="M:LibreriaDatos.Cargar.ImportarCSV">
+ <summary>
+ Función encargada de devolver una tabla conteniendo todos los valores de un archivo CSV.
+ </summary>
+ <returns>Tabla conteniendo todos los datos del CSV en el orden del separador de campos.</returns>
+</member>
+<member name="M:LibreriaDatos.Cargar.CargarSerializable``1">
+ <summary>
+ Función encargada de devolver un objeto en base a un archivo binario (BLOB) guardado previamente.
+ </summary>
+ <returns>Objeto guardado.</returns>
+</member>
+<member name="P:LibreriaDatos.Cargar.RutaTemp">
+ <summary>
+ Devuelve la ruta actualmente utilizada para acceder al último archivo consultado.
+ </summary>
+ <returns>Ruta del archivo en cuestión.</returns>
+</member>
+<member name="T:LibreriaDatos.Guardar">
+ <summary>
+ Clase encargada de escribir archivos en texto plano y/o obtener una ruta donde escribir un archivo.
+ </summary>
+</member>
+<member name="M:LibreriaDatos.Guardar.RutaGuardar(System.String,System.String,System.String)">
+ <summary>
+ Función encargada de obtener la ruta de un archivo a escribir y generar el archivo vacío.
+ </summary>
+ <param name="nombreArchivo">Nombre del archivo por defecto a escribir que aparecerá en el cuadro de texto del SaveFileDialog.</param>
+ <param name="nombreTipoDeDato">Tipo de dato que aparecerá en el ComboBox de extensiones en el SaveFileDialog.</param>
+ <param name="extension">Extensión del archivo a obtener su ruta, del tipo (ejemplo) "dsn", sin puntos ni asteriscos.</param>
+ <returns>Ruta del archivo a escribir</returns>
+</member>
+<member name="M:LibreriaDatos.Guardar.EscribirArchivo(System.String[],System.String)">
+ <summary>
+ Función encargada de escribir todas las líneas de un Array de String en un archivo de texto plano.
+ Puede lanzar una excepción en tiempo de ejecución si no se logró escribir los datos.
+ </summary>
+ <param name="lineas">Array de String con los datos a escribir en el archivo.</param>
+ <param name="ruta">Ruta con el nombre del archivo donde se van a escribir los datos de lineas().</param>
+</member>
+<member name="M:LibreriaDatos.Guardar.EscribirSerializable(System.Object)">
+ <summary>
+ Función encargada de escribir un objeto con interfaz serializable a un archivo binario (BLOB).
+ </summary>
+ <param name="clase">Objeto a ser escrito.</param>
+ <returns>Devuelve el resultado de la operación. (True correcto, false erróneo).</returns>
+</member>
+<member name="T:LibreriaDatos.Conexion">
+ <summary>
+ Clase encargada de administrar la conexión con la Base de Datos InformiX mediante Open Database Connectivity (ODBC).
+ </summary>
+</member>
+<member name="M:LibreriaDatos.Conexion.GetSingleton">
+ <summary>
+ Función compartida encargada de cumplir el patrón singleton mediante una única instancia de la clase.
+ </summary>
+ <returns>Instancia de la clase.</returns>
+</member>
+<member name="M:LibreriaDatos.Conexion.CrearConexion(System.String,System.String,System.String)">
+ <summary>
+ Subrutina encargada de crear el string con parámetros de la Base de Datos para activar su conexión. 
+ </summary>
+ <param name="RutaArchivoDSN">Ruta obtenida del OpenFileDialog.</param>
+ <param name="UserDatabase">Usuario de la base de datos obtenido de la librería gráfica.</param>
+ <param name="PassDatabase">Contraseña que pertenece al usuario de la base de datos obtenido de la librería gráfica.</param>
+</member>
+<member name="M:LibreriaDatos.Conexion.CerrarConexion">
+ <summary>
+ Subrutina encargada de cerrar una conexión activa o fallida con la base de datos.
+ </summary>
+</member>
+<member name="M:LibreriaDatos.Conexion.Conectar">
+ <summary>
+ Función encargada de activar una conexión instanciada con la base de datos.
+ </summary>
+ <returns>Devuelve si se logró la conexión o no.</returns>
+</member>
+<member name="P:LibreriaDatos.Conexion.ConexionInstanciada">
+ <summary>
+ Propiedad que devuelve la conexión instanciada en la clase.
+ </summary>
+ <returns>Conexión instanciada.</returns>
+</member>
+<member name="P:LibreriaDatos.Conexion.IsActive">
+ <summary>
+ Propiedad encargada de informar si hay una conexión activa o no.
+ </summary>
+ <returns>Estado de la conexión.</returns>
+</member>
+<member name="T:LibreriaDatos.DSN">
+ <summary>
+ Clase encargada de administrar el archivo de conexión con Base de Datos (Database Source Name).   
+ </summary>
+</member>
+<member name="M:LibreriaDatos.DSN.GenerarString">
+ <summary>
+ Subrutina encargada de generar el String necesario para la conexión con la Base de Datos.
+ </summary>
+</member>
+<member name="P:LibreriaDatos.DSN.RutaDSN">
+ <summary>
+ Property encargada de getear o setear la ruta del archivo DSN mediante un OpenFileDialog de la librería gráfica.
+ </summary>
+ <returns>Ruta del archivo DSN.</returns>
+</member>
+<member name="P:LibreriaDatos.DSN.UserBD">
+ <summary>
+ Propiedad encargada de getear o setear el usuario de la Base de Datos mediante la librería gráfica.
+ </summary>
+ <returns>Usuario de la Base de Datos.</returns>
+</member>
+<member name="P:LibreriaDatos.DSN.PassDB">
+ <summary>
+ Propiedad de solo lectura que setea el usuario de la Base de Datos obtenido mediante la librería gráfica.
+ </summary>
+</member>
+<member name="P:LibreriaDatos.DSN.StringGenerado">
+ <summary>
+ Propiedad encargada de tomar el String de conexión a la Base de Datos generado en esta clase.
+ </summary>
+ <returns>String generado de conexión con la Base de Datos.</returns>
+</member>
+</members>
+</doc>

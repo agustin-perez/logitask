@@ -1,0 +1,80 @@
+//vehiculo
+
+INSERT INTO vehiculo VALUES ("JN1CV6EK7BM215031","blanco","Peugot","406",2003,"Auto");
+INSERT INTO vehiculo VALUES ("1G1BN51YXHX110802","rojo","Nissan","Almera",2004,"Auto");
+INSERT INTO vehiculo VALUES ("WVWLK63B63E414703","negro","Chrysler","Chrysler 300",2019,"Auto");
+INSERT INTO vehiculo VALUES ("1B7FL36Z82S679304","gris","Skoda","Octavia",2017,"Auto");
+INSERT INTO vehiculo VALUES ("1C4GT54L8YB680624","azul","Noble","M12",2010,"Auto");
+INSERT INTO vehiculo VALUES ("1GD02ZCG7CF169007","amarillo","Suzuki","Swift",2016,"Auto");
+INSERT INTO vehiculo VALUES ("1XKDA48X97J266092","azul","Shelby","Cobra",2019,"Auto");
+INSERT INTO vehiculo VALUES ("WBAEW53463PG48493","blanco","Kia","Sportage",2019,"SUV");
+INSERT INTO vehiculo VALUES ("3FTSF30L53MB52411","blanco","BMW","Serie 1",2019,"Auto");
+INSERT INTO vehiculo VALUES ("1FUYSDYB71PH20922","gris","Honda","Civic",2019,"Auto");
+
+//usuario
+
+INSERT INTO usuario VALUES ("juanperez2","juan1234","Juan","Perez");
+INSERT INTO usuario VALUES ("rexled","rex333456","Roberto","Nuniez");
+INSERT INTO usuario VALUES ("nelatic","nelatic1024","Franco","Mendez");
+INSERT INTO usuario VALUES ("tulexzz","tux224466","Guillermo","Olmedo");
+INSERT INTO usuario VALUES ("cul230","olday234","Camilo","Urtiaga");
+INSERT INTO usuario VALUES ("Lestar","detle234","Leandro","Dominguez");
+INSERT INTO usuario VALUES ("retic","retoul3333","Ramon","Eler");
+INSERT INTO usuario VALUES ("kodiflow","kodigo2215","Marcos","Dominguez");
+
+
+//tel usuario
+
+INSERT INTO tel_usuario VALUES ("juanperez2",092312456);
+INSERT INTO tel_usuario VALUES ("rexled",091272373);
+INSERT INTO tel_usuario VALUES ("nelatic",093456783);
+INSERT INTO tel_usuario VALUES ("tulexzz",099231444);
+INSERT INTO tel_usuario VALUES ("cul230",098321221);
+INSERT INTO tel_usuario VALUES ("Lestar",097312732);
+INSERT INTO tel_usuario VALUES ("retic",092245337);
+INSERT INTO tel_usuario VALUES ("kodiflow",093222111);
+
+//operario
+
+INSERT INTO operario VALUES ("rexled","Puerto");
+INSERT INTO operario VALUES ("nelatic","Patio");
+INSERT INTO operario VALUES ("tulexzz","Patio");
+INSERT INTO operario VALUES ("cul230","Puerto");
+INSERT INTO operario VALUES ("Lestar","Patio");
+INSERT INTO operario VALUES ("retic","Patio");
+INSERT INTO operario VALUES ("kodiflow","Puerto");
+
+
+//admin
+
+INSERT INTO admin VALUES ("juanperez2");
+
+
+//contiene
+
+INSERT INTO contiene VALUES ("1XKDA48X97J266092","insp1","nelatic");
+
+
+//inspeccion
+
+INSERT INTO inspeccion VALUES ("nelatic","insp1","16:33","08:15",
+DATE(10/06/2019),DATE(11/06/2019),"Puerto de Montevideo");
+
+//img_inspeccion
+INSERT INTO img_inspeccion VALUES ("insp1","www.ap4gf1006191633");
+
+//danio_inspeccion
+INSERT INTO danio_inspeccion VALUES ("insp1", "Abolladura en puerta trasera",NULL);
+
+
+
+
+
+
+//lote
+
+INSERT INTO lote VALUES ("lote1","nelatic",NULL);
+
+
+
+

@@ -1,0 +1,100 @@
+Alter table tel_usuario add
+Constraint Foreign Key(nombreUser)
+References usuario(nombreUser)
+Constraint fk_tel_nomuser;
+
+Alter table transportista add
+Constraint Foreign Key(nombreTransp)
+References usuario(nombreUser)
+Constraint fk_nomuser;
+
+Alter table operario add
+Constraint Foreign Key(nombreOp)
+References usuario(nombreUser)
+Constraint fk_nomuserOp;
+
+Alter table admin add
+Constraint Foreign Key(nombreAdmin)
+References usuario(nombreUser)
+Constraint fk_nomuserAdmn;
+
+Alter table dispara add
+Constraint Foreign Key(NroEmbarque)
+References embarque(NroEmbarque)
+Constraint fk_nrembarquedisp;
+
+Alter table dispara add
+Constraint Foreign Key(nombreTransp)
+References transportista(nombreTransp)
+Constraint fk_disparnomTransp;
+
+Alter table se_dirige add
+Constraint Foreign Key(NroEmbarque)			!!!!!
+References embarque(NroEmbarque)
+Constraint fk_embarquenro;
+
+Alter table se_dirige add
+Constraint Foreign Key(codigoPatio)
+References lugar(codigoPatio)
+Constraint fk_codigopatiosedirig;
+
+Alter table traslada add
+Constraint Foreign Key(codigoLote)
+References lote(codigoLote)
+Constraint fk_codigoloteLot;
+
+Alter table traslada add
+Constraint Foreign Key(NroEmbarque)
+References embarque(NroEmbarque)
+Constraint fk_nroembarqueTraslad;
+
+Alter table posee add
+Constraint Foreign Key(codigoPatio)
+References lugar(codigoPatio)
+Constraint fk_codpatioposee;
+
+Alter table posee add
+Constraint Foreign Key(VIN)
+References vehiculo(VIN)
+Constraint fk_vinvehicposee;
+
+Alter table posee add
+Constraint Foreign Key(nombreOp)
+References operario(nombreOp)
+Constraint fk_nompoperarioposee;
+
+Alter table estado_vehiculo add
+Constraint Foreign Key(VIN)
+References vehiculo(VIN)
+Constraint fk_vinestadovehic;
+
+Alter table contiene add
+Constraint Foreign Key(VIN)
+References vehiculo(VIN)
+Constraint fk_vincontiene;
+
+Alter table contiene add
+Constraint Foreign Key(codigoInsp)			!!!!!
+References inspeccion(codigoInsp)
+Constraint fk_contienecodigoinsp;
+
+Alter table contiene add
+Constraint Foreign Key(nombreOp)
+References operario(nombreOp)
+Constraint fk_contienenomop;
+
+Alter table inspeccion add
+Constraint Foreign Key(nombreOp)
+References operario(nombreOp)
+Constraint fk_inspnombreop;
+
+Alter table img_inspeccion add
+Constraint Foreign Key(codigoInsp)			!!!!!
+References inspeccion(codigoInsp)
+Constraint fk_imginspcodigoinsp;
+
+Alter table danio_inspeccion add
+Constraint Foreign Key(codigoInsp)			!!!!!!
+References inspeccion(codigoInsp)
+Constraint fk_danioinspcodigoinsp;
+

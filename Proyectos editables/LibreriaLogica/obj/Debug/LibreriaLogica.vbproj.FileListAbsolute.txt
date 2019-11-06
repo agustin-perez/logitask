@@ -1,0 +1,15 @@
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\bin\Debug\LibreriaLogica.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\bin\Debug\LibreriaLogica.pdb
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\bin\Debug\LibreriaLogica.xml
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\bin\Debug\LibreriaDatos.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\bin\Debug\LibreriaDatos.pdb
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\bin\Debug\LibreriaDatos.xml
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\obj\Debug\LibreriaLogica.vbprojAssemblyReference.cache
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\obj\Debug\LibreriaLogica.Resources.resources
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\obj\Debug\LibreriaLogica.vbproj.GenerateResource.cache
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\obj\Debug\LibreriaLogica.vbproj.CoreCompileInputs.cache
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\obj\Debug\LibreriaLogica.vbproj.CopyComplete
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\obj\Debug\LibreriaLogica.dll
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\obj\Debug\LibreriaLogica.xml
+C:\Users\tequi\Desktop\proyectobd-\slta\Proyectos editables\LibreriaLogica\obj\Debug\LibreriaLogica.pdb

@@ -1,0 +1,11 @@
+[ODBC]
+DRIVER={IBM INFORMIX ODBC DRIVER (64-bit)}
+UID=fdalmaso
+PWD=EP  0  1 19 24 30 17 18 91 51 50 49  0  0  0  0  0  0  0
+DATABASE=logitask
+HOST=fertspa.tplinkdns.com
+SERVER=aperezIBM
+SERVICE=9088
+PROTOCOL=onsoctcp
+CLIENT_LOCALE=en_US.CP1252
+DB_LOCALE=en_US.819

@@ -1,0 +1,400 @@
+
+DBSCHEMA Schema Utility       INFORMIX-SQL Version 12.10.FC5
+grant dba to "fdalmaso";
+
+
+
+
+
+
+
+
+
+{ TABLE "fdalmaso".tel_usuario row size = 50 number of columns = 2 index size = 106 }
+
+create table "fdalmaso".tel_usuario 
+  (
+    nombreuser varchar(45) not null ,
+    telefono integer not null ,
+    primary key (nombreuser,telefono) 
+  );
+
+revoke all on "fdalmaso".tel_usuario from "public" as "fdalmaso";
+
+{ TABLE "fdalmaso".transportista row size = 46 number of columns = 1 index size = 51 }
+
+create table "fdalmaso".transportista 
+  (
+    nombretransp varchar(45) not null ,
+    primary key (nombretransp) 
+  );
+
+revoke all on "fdalmaso".transportista from "public" as "fdalmaso";
+
+{ TABLE "fdalmaso".usuario row size = 184 number of columns = 4 index size = 51 }
+
+create table "fdalmaso".usuario 
+  (
+    nombreuser varchar(45) not null ,
+    contrasenia varchar(45) not null ,
+    nombre varchar(45),
+    apellido varchar(45),
+    primary key (nombreuser) 
+  );
+
+revoke all on "fdalmaso".usuario from "public" as "fdalmaso";
+
+{ TABLE "fdalmaso".operario row size = 92 number of columns = 2 index size = 51 }
+
+create table "fdalmaso".operario 
+  (
+    nombreop varchar(45),
+    tipoop varchar(45),
+    primary key (nombreop) 
+  );
+
+revoke all on "fdalmaso".operario from "public" as "fdalmaso";
+
+{ TABLE "fdalmaso".admin row size = 46 number of columns = 1 index size = 51 }
+
+create table "fdalmaso".admin 
+  (
+    nombreadmin varchar(45) not null ,
+    primary key (nombreadmin) 
+  );
+
+revoke all on "fdalmaso".admin from "public" as "fdalmaso";
+
+{ TABLE "fdalmaso".dispara row size = 98 number of columns = 4 index size = 102 }
+
+create table "fdalmaso".dispara 
+  (
+    nroembarque varchar(45) not null ,
+    nombretransp varchar(45) not null ,
+    horasalida datetime hour to minute not null ,
+    horallegadaesperada datetime hour to minute not null ,
+    primary key (nroembarque) 
+  );
+
+revoke all on "fdalmaso".dispara from "public" as "fdalmaso";
+
+{ TABLE "fdalmaso".embarque row size = 95 number of columns = 3 index size = 51 }
+
+create table "fdalmaso".embarque 
+  (
+    nroembarque varchar(45) not null ,
+    medio varchar(45),
+    horallegadareal datetime hour to minute,
+    primary key (nroembarque) 
+  );
+
+revoke all on "fdalmaso".embarque from "public" as "fdalmaso";
+
+{ TABLE "fdalmaso".se_dirige row size = 50 number of columns = 2 index size = 60 }
+
+create table "fdalmaso".se_dirige 
+  (
+    nroembarque integer not null ,
+    codigopatio varchar(45) not null ,
+    primary key (nroembarque) 
+  );
+
+revoke all on "fdalmaso".se_dirige from "public" as "fdalmaso";
+
+{ TABLE "fdalmaso".traslada row size = 92 number of columns = 2 index size = 102 }
+
+create table "fdalmaso".traslada 
+  (
+    codigolote varchar(45) not null ,
+    nroembarque varchar(45),
+    primary key (codigolote) 
+  );
+
+revoke all on "fdalmaso".traslada from "public" as "fdalmaso";
+
+{ TABLE "fdalmaso".lote row size = 293 number of columns = 3 index size = 51 }
+
+create table "fdalmaso".lote 
+  (
+    codigolote varchar(45) not null ,
+    creador varchar(45),
+    descripcion varchar(200),
+    primary key (codigolote) 
+  );
+
+revoke all on "fdalmaso".lote from "public" as "fdalmaso";
+
+{ TABLE "fdalmaso".lugar row size = 339 number of columns = 4 index size = 51 }
+
+create table "fdalmaso".lugar 
+  (
+    codigopatio varchar(45) not null ,
+    nombre varchar(45),
+    capacidad varchar(45),
+    descripcion varchar(200),
+    primary key (codigopatio) 
+  );
+
+revoke all on "fdalmaso".lugar from "public" as "fdalmaso";
+
+{ TABLE "fdalmaso".tiene row size = 96 number of columns = 3 index size = 51 }
+
+create table "fdalmaso".tiene 
+  (
+    subzona varchar(45) not null ,
+    zona varchar(45),
+    cantidadvehiculo integer,
+    primary key (subzona) 
+  );
+
+revoke all on "fdalmaso".tiene from "public" as "fdalmaso";
+
+{ TABLE "fdalmaso".posee row size = 170 number of columns = 8 index size = 194 }
+
+create table "fdalmaso".posee 
+  (
+    codigopatio varchar(45) not null ,
+    vin varchar(17) not null ,
+    nombreop varchar(45),
+    fechainic date,
+    fechafin date,
+    horainic datetime hour to minute,
+    horafin datetime hour to minute,
+    ubicacionestado varchar(45),
+    primary key (codigopatio,vin) 
+  );
+
+revoke all on "fdalmaso".posee from "public" as "fdalmaso";
+
+{ TABLE "fdalmaso".vehiculo row size = 181 number of columns = 6 index size = 23 }
+
+create table "fdalmaso".vehiculo 
+  (
+    vin varchar(17) not null ,
+    color varchar(20),
+    marca varchar(45) not null ,
+    modelo varchar(45) not null ,
+    anio integer,
+    tipo varchar(45),
+    primary key (vin) 
+  );
+
+revoke all on "fdalmaso".vehiculo from "public" as "fdalmaso";
+
+{ TABLE "fdalmaso".estado_vehiculo row size = 64 number of columns = 2 index size = 92 }
+
+create table "fdalmaso".estado_vehiculo 
+  (
+    vin varchar(17) not null ,
+    estado varchar(45) not null ,
+    primary key (vin,estado) 
+  );
+
+revoke all on "fdalmaso".estado_vehiculo from "public" as "fdalmaso";
+
+{ TABLE "fdalmaso".danio_inspeccion row size = 448 number of columns = 3 index size = 252 }
+
+create table "fdalmaso".danio_inspeccion 
+  (
+    codigoinsp varchar(45) not null ,
+    danio varchar(200) not null ,
+    descripciondanio varchar(200),
+    primary key (codigoinsp,danio) 
+  );
+
+revoke all on "fdalmaso".danio_inspeccion from "public" as "fdalmaso";
+
+{ TABLE "fdalmaso".contiene row size = 110 number of columns = 3 index size = 189 }
+
+create table "fdalmaso".contiene 
+  (
+    vin varchar(17) not null ,
+    codigoinsp varchar(45) not null ,
+    nombreop varchar(45) not null ,
+    primary key (vin,codigoinsp,nombreop) 
+  );
+
+revoke all on "fdalmaso".contiene from "public" as "fdalmaso";
+
+{ TABLE "fdalmaso".inspeccion row size = 152 number of columns = 7 index size = 148 }
+
+create table "fdalmaso".inspeccion 
+  (
+    nombreop varchar(45) not null ,
+    codigoinsp varchar(45) not null ,
+    horainic datetime hour to minute,
+    horafin datetime hour to minute,
+    fechainic date,
+    fechafin date,
+    lugar varchar(45),
+    primary key (nombreop,codigoinsp) 
+  );
+
+revoke all on "fdalmaso".inspeccion from "public" as "fdalmaso";
+
+{ TABLE "fdalmaso".img_inspeccion row size = 147 number of columns = 2 index size = 152 }
+
+create table "fdalmaso".img_inspeccion 
+  (
+    codigoinsp varchar(45) not null ,
+    imagen varchar(100) not null ,
+    primary key (codigoinsp,imagen) 
+  );
+
+revoke all on "fdalmaso".img_inspeccion from "public" as "fdalmaso";
+
+
+grant select on "fdalmaso".tel_usuario to "public" as "fdalmaso";
+grant update on "fdalmaso".tel_usuario to "public" as "fdalmaso";
+grant insert on "fdalmaso".tel_usuario to "public" as "fdalmaso";
+grant delete on "fdalmaso".tel_usuario to "public" as "fdalmaso";
+grant index on "fdalmaso".tel_usuario to "public" as "fdalmaso";
+grant select on "fdalmaso".transportista to "public" as "fdalmaso";
+grant update on "fdalmaso".transportista to "public" as "fdalmaso";
+grant insert on "fdalmaso".transportista to "public" as "fdalmaso";
+grant delete on "fdalmaso".transportista to "public" as "fdalmaso";
+grant index on "fdalmaso".transportista to "public" as "fdalmaso";
+grant select on "fdalmaso".usuario to "public" as "fdalmaso";
+grant update on "fdalmaso".usuario to "public" as "fdalmaso";
+grant insert on "fdalmaso".usuario to "public" as "fdalmaso";
+grant delete on "fdalmaso".usuario to "public" as "fdalmaso";
+grant index on "fdalmaso".usuario to "public" as "fdalmaso";
+grant select on "fdalmaso".operario to "public" as "fdalmaso";
+grant update on "fdalmaso".operario to "public" as "fdalmaso";
+grant insert on "fdalmaso".operario to "public" as "fdalmaso";
+grant delete on "fdalmaso".operario to "public" as "fdalmaso";
+grant index on "fdalmaso".operario to "public" as "fdalmaso";
+grant select on "fdalmaso".admin to "public" as "fdalmaso";
+grant update on "fdalmaso".admin to "public" as "fdalmaso";
+grant insert on "fdalmaso".admin to "public" as "fdalmaso";
+grant delete on "fdalmaso".admin to "public" as "fdalmaso";
+grant index on "fdalmaso".admin to "public" as "fdalmaso";
+grant select on "fdalmaso".dispara to "public" as "fdalmaso";
+grant update on "fdalmaso".dispara to "public" as "fdalmaso";
+grant insert on "fdalmaso".dispara to "public" as "fdalmaso";
+grant delete on "fdalmaso".dispara to "public" as "fdalmaso";
+grant index on "fdalmaso".dispara to "public" as "fdalmaso";
+grant select on "fdalmaso".embarque to "public" as "fdalmaso";
+grant update on "fdalmaso".embarque to "public" as "fdalmaso";
+grant insert on "fdalmaso".embarque to "public" as "fdalmaso";
+grant delete on "fdalmaso".embarque to "public" as "fdalmaso";
+grant index on "fdalmaso".embarque to "public" as "fdalmaso";
+grant select on "fdalmaso".se_dirige to "public" as "fdalmaso";
+grant update on "fdalmaso".se_dirige to "public" as "fdalmaso";
+grant insert on "fdalmaso".se_dirige to "public" as "fdalmaso";
+grant delete on "fdalmaso".se_dirige to "public" as "fdalmaso";
+grant index on "fdalmaso".se_dirige to "public" as "fdalmaso";
+grant select on "fdalmaso".traslada to "public" as "fdalmaso";
+grant update on "fdalmaso".traslada to "public" as "fdalmaso";
+grant insert on "fdalmaso".traslada to "public" as "fdalmaso";
+grant delete on "fdalmaso".traslada to "public" as "fdalmaso";
+grant index on "fdalmaso".traslada to "public" as "fdalmaso";
+grant select on "fdalmaso".lote to "public" as "fdalmaso";
+grant update on "fdalmaso".lote to "public" as "fdalmaso";
+grant insert on "fdalmaso".lote to "public" as "fdalmaso";
+grant delete on "fdalmaso".lote to "public" as "fdalmaso";
+grant index on "fdalmaso".lote to "public" as "fdalmaso";
+grant select on "fdalmaso".lugar to "public" as "fdalmaso";
+grant update on "fdalmaso".lugar to "public" as "fdalmaso";
+grant insert on "fdalmaso".lugar to "public" as "fdalmaso";
+grant delete on "fdalmaso".lugar to "public" as "fdalmaso";
+grant index on "fdalmaso".lugar to "public" as "fdalmaso";
+grant select on "fdalmaso".tiene to "public" as "fdalmaso";
+grant update on "fdalmaso".tiene to "public" as "fdalmaso";
+grant insert on "fdalmaso".tiene to "public" as "fdalmaso";
+grant delete on "fdalmaso".tiene to "public" as "fdalmaso";
+grant index on "fdalmaso".tiene to "public" as "fdalmaso";
+grant select on "fdalmaso".posee to "public" as "fdalmaso";
+grant update on "fdalmaso".posee to "public" as "fdalmaso";
+grant insert on "fdalmaso".posee to "public" as "fdalmaso";
+grant delete on "fdalmaso".posee to "public" as "fdalmaso";
+grant index on "fdalmaso".posee to "public" as "fdalmaso";
+grant select on "fdalmaso".vehiculo to "public" as "fdalmaso";
+grant update on "fdalmaso".vehiculo to "public" as "fdalmaso";
+grant insert on "fdalmaso".vehiculo to "public" as "fdalmaso";
+grant delete on "fdalmaso".vehiculo to "public" as "fdalmaso";
+grant index on "fdalmaso".vehiculo to "public" as "fdalmaso";
+grant select on "fdalmaso".estado_vehiculo to "public" as "fdalmaso";
+grant update on "fdalmaso".estado_vehiculo to "public" as "fdalmaso";
+grant insert on "fdalmaso".estado_vehiculo to "public" as "fdalmaso";
+grant delete on "fdalmaso".estado_vehiculo to "public" as "fdalmaso";
+grant index on "fdalmaso".estado_vehiculo to "public" as "fdalmaso";
+grant select on "fdalmaso".danio_inspeccion to "public" as "fdalmaso";
+grant update on "fdalmaso".danio_inspeccion to "public" as "fdalmaso";
+grant insert on "fdalmaso".danio_inspeccion to "public" as "fdalmaso";
+grant delete on "fdalmaso".danio_inspeccion to "public" as "fdalmaso";
+grant index on "fdalmaso".danio_inspeccion to "public" as "fdalmaso";
+grant select on "fdalmaso".contiene to "public" as "fdalmaso";
+grant update on "fdalmaso".contiene to "public" as "fdalmaso";
+grant insert on "fdalmaso".contiene to "public" as "fdalmaso";
+grant delete on "fdalmaso".contiene to "public" as "fdalmaso";
+grant index on "fdalmaso".contiene to "public" as "fdalmaso";
+grant select on "fdalmaso".inspeccion to "public" as "fdalmaso";
+grant update on "fdalmaso".inspeccion to "public" as "fdalmaso";
+grant insert on "fdalmaso".inspeccion to "public" as "fdalmaso";
+grant delete on "fdalmaso".inspeccion to "public" as "fdalmaso";
+grant index on "fdalmaso".inspeccion to "public" as "fdalmaso";
+grant select on "fdalmaso".img_inspeccion to "public" as "fdalmaso";
+grant update on "fdalmaso".img_inspeccion to "public" as "fdalmaso";
+grant insert on "fdalmaso".img_inspeccion to "public" as "fdalmaso";
+grant delete on "fdalmaso".img_inspeccion to "public" as "fdalmaso";
+grant index on "fdalmaso".img_inspeccion to "public" as "fdalmaso";
+
+
+revoke usage on language SPL from public ;
+
+grant usage on language SPL to public ;
+
+
+
+
+alter table "fdalmaso".tel_usuario add constraint (foreign key 
+    (nombreuser) references "fdalmaso".usuario  constraint "fdalmaso"
+    .fk_tel_nomuser);
+alter table "fdalmaso".transportista add constraint (foreign 
+    key (nombretransp) references "fdalmaso".usuario  constraint 
+    "fdalmaso".fk_nomuser);
+alter table "fdalmaso".operario add constraint (foreign key (nombreop) 
+    references "fdalmaso".usuario  constraint "fdalmaso".fk_nomuserop);
+    
+alter table "fdalmaso".admin add constraint (foreign key (nombreadmin) 
+    references "fdalmaso".usuario  constraint "fdalmaso".fk_nomuseradmn);
+    
+alter table "fdalmaso".dispara add constraint (foreign key (nroembarque) 
+    references "fdalmaso".embarque  constraint "fdalmaso".fk_nrembarquedisp);
+    
+alter table "fdalmaso".dispara add constraint (foreign key (nombretransp) 
+    references "fdalmaso".transportista  constraint "fdalmaso".fk_disparnomtransp);
+    
+alter table "fdalmaso".se_dirige add constraint (foreign key 
+    (codigopatio) references "fdalmaso".lugar  constraint "fdalmaso"
+    .fk_codigopatiosedirig);
+alter table "fdalmaso".traslada add constraint (foreign key (codigolote) 
+    references "fdalmaso".lote  constraint "fdalmaso".fk_codigolotelot);
+    
+alter table "fdalmaso".traslada add constraint (foreign key (nroembarque) 
+    references "fdalmaso".embarque  constraint "fdalmaso".fk_nroembarquetraslad);
+    
+alter table "fdalmaso".posee add constraint (foreign key (codigopatio) 
+    references "fdalmaso".lugar  constraint "fdalmaso".fk_codpatioposee);
+    
+alter table "fdalmaso".posee add constraint (foreign key (vin) 
+    references "fdalmaso".vehiculo  constraint "fdalmaso".fk_vinvehicposee);
+    
+alter table "fdalmaso".posee add constraint (foreign key (nombreop) 
+    references "fdalmaso".operario  constraint "fdalmaso".fk_nompoperarioposee);
+    
+alter table "fdalmaso".estado_vehiculo add constraint (foreign 
+    key (vin) references "fdalmaso".vehiculo  constraint "fdalmaso"
+    .fk_vinestadovehic);
+alter table "fdalmaso".contiene add constraint (foreign key (vin) 
+    references "fdalmaso".vehiculo  constraint "fdalmaso".fk_vincontiene);
+    
+alter table "fdalmaso".contiene add constraint (foreign key (nombreop) 
+    references "fdalmaso".operario  constraint "fdalmaso".fk_contienenomop);
+    
+alter table "fdalmaso".inspeccion add constraint (foreign key 
+    (nombreop) references "fdalmaso".operario  constraint "fdalmaso"
+    .fk_inspnombreop);
+
+

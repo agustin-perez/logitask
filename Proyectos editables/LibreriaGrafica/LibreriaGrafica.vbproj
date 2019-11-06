@@ -1,0 +1,757 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D8D0FFA9-D830-4C1E-A447-6F9BB17B0617}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>LibreriaGrafica</RootNamespace>
+    <AssemblyName>LibreriaGrafica</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>LibreriaGrafica.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>LibreriaGrafica.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DocumentationFile>LibreriaGrafica.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DocumentationFile>LibreriaGrafica.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>LibreriaGrafica.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>LibreriaGrafica.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="GMap.NET.Core">
+      <HintPath>..\Interfaces externas\GMap.NET.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsForms">
+      <HintPath>..\Interfaces externas\GMap.NET.WindowsForms.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsPresentation">
+      <HintPath>..\Interfaces externas\GMap.NET.WindowsPresentation.dll</HintPath>
+    </Reference>
+    <Reference Include="LibreriaLogica">
+      <HintPath>..\LibreriaLogica\bin\x64\Debug\LibreriaLogica.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.ComponentModel.Composition.Registration" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Device" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="WebCAM">
+      <HintPath>..\Interfaces externas\WebCAM.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Pop-Ups\DatosUser.Designer.vb">
+      <DependentUpon>DatosUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pop-Ups\DatosUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pop-Ups\EscanerQR.Designer.vb">
+      <DependentUpon>EscanerQR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pop-Ups\EscanerQR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pop-Ups\NuevoTicket.Designer.vb">
+      <DependentUpon>NuevoTicket.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pop-Ups\NuevoTicket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pop-Ups\TicketMenu.Designer.vb">
+      <DependentUpon>TicketMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pop-Ups\TicketMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tiles\TileMedio.designer.vb">
+      <DependentUpon>TileMedio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tiles\TileMedio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tiles\TileTicket.Designer.vb">
+      <DependentUpon>TileTicket.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tiles\TileTicket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tiles\TileUser.Designer.vb">
+      <DependentUpon>TileUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tiles\TileUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Admin\AltaUser.Designer.vb">
+      <DependentUpon>AltaUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Admin\AltaUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Admin\EvaluacionTransportistas.Designer.vb">
+      <DependentUpon>EvaluacionTransportistas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Admin\EvaluacionTransportistas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Admin\ImportarVehiculos.Designer.vb">
+      <DependentUpon>ImportarVehiculos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Admin\ImportarVehiculos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Menus internos\MenuUsuarios.Designer.vb">
+      <DependentUpon>MenuUsuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Menus internos\MenuUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Configuraciones\cambioPass.Designer.vb">
+      <DependentUpon>cambioPass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Configuraciones\cambioPass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Configuraciones\configGrafica.Designer.vb">
+      <DependentUpon>configGrafica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Configuraciones\configGrafica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Configuraciones\acercaDe.Designer.vb">
+      <DependentUpon>acercaDe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Configuraciones\acercaDe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Configuraciones\configRed.Designer.vb">
+      <DependentUpon>configRed.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Configuraciones\configRed.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Configuraciones\configIdioma.Designer.vb">
+      <DependentUpon>configIdioma.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Configuraciones\configIdioma.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ErrorCodes.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ErrorCodes.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Images.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Images.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Menus\LoginVariable.Designer.vb">
+      <DependentUpon>LoginVariable.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menus\LoginVariable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menus\MenuPrincipal.designer.vb">
+      <DependentUpon>MenuPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menus\MenuPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menus\MenuVariable.designer.vb">
+      <DependentUpon>MenuVariable.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menus\MenuVariable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Pop-Ups\InfoLote.designer.vb">
+      <DependentUpon>InfoLote.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pop-Ups\InfoLote.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="propiedadesVentanas.vb" />
+    <Compile Include="Idiomas\EN-UK.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EN-UK.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Idiomas\ES-LA.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ES-LA.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Idiomas\PT_BR.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PT_BR.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Tiles\TileLote.designer.vb">
+      <DependentUpon>TileLote.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tiles\TileLote.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tiles\TileLugar.designer.vb">
+      <DependentUpon>TileLugar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tiles\TileLugar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Configuraciones\RestablecerPass.Designer.vb">
+      <DependentUpon>RestablecerPass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Configuraciones\RestablecerPass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Transportista\SeleccionarMedio.Designer.vb">
+      <DependentUpon>SeleccionarMedio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Transportista\SeleccionarMedio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Utilizadas por varias apps\Vehiculos\AltaMedioTransporte.Designer.vb">
+      <DependentUpon>AltaMedioTransporte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Utilizadas por varias apps\Vehiculos\AltaMedioTransporte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Utilizadas por varias apps\Vehiculos\AltaVehiculo.Designer.vb">
+      <DependentUpon>AltaVehiculo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Utilizadas por varias apps\Vehiculos\AltaVehiculo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Operarios\Inspecciones\Damage.designer.vb">
+      <DependentUpon>Damage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Operarios\Inspecciones\Damage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Operarios\Inspecciones\DatosDamage.Designer.vb">
+      <DependentUpon>DatosDamage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Operarios\Inspecciones\DatosDamage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pop-Ups\DatosInspecc.Designer.vb">
+      <DependentUpon>DatosInspecc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pop-Ups\DatosInspecc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pop-Ups\DatosVehiculo.Designer.vb">
+      <DependentUpon>DatosVehiculo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pop-Ups\DatosVehiculo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Operarios\Inspecciones\DatosNuevaInspeccion.designer.vb">
+      <DependentUpon>DatosNuevaInspeccion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Operarios\Inspecciones\DatosNuevaInspeccion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Utilizadas por varias apps\Zonas\HistorialZonas.Designer.vb">
+      <DependentUpon>HistorialZonas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Utilizadas por varias apps\Zonas\HistorialZonas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Menus internos\MenuLotes.designer.vb">
+      <DependentUpon>MenuLotes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Menus internos\MenuLotes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Menus internos\MenuZonas.Designer.vb">
+      <DependentUpon>MenuZonas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Menus internos\MenuZonas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Menus internos\MenuVehiculos.designer.vb">
+      <DependentUpon>MenuVehiculos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Menus internos\MenuVehiculos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Menus internos\MenuMediosTransporte.designer.vb">
+      <DependentUpon>MenuMediosTransporte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Menus internos\MenuMediosTransporte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Utilizadas por varias apps\Zonas\Mapa.Designer.vb">
+      <DependentUpon>Mapa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Utilizadas por varias apps\Zonas\Mapa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tiles\TileDamage.designer.vb">
+      <DependentUpon>TileDamage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tiles\TileDamage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tiles\TileInspeccion.designer.vb">
+      <DependentUpon>TileInspeccion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tiles\TileInspeccion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tiles\TileVehiculo.Designer.vb">
+      <DependentUpon>TileVehiculo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tiles\TileVehiculo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Utilizadas por varias apps\Zonas\NuevaZona.Designer.vb">
+      <DependentUpon>NuevaZona.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Utilizadas por varias apps\Zonas\NuevaZona.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Utilizadas por varias apps\Zonas\NuevoMedioTransporte.Designer.vb">
+      <DependentUpon>NuevoMedioTransporte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Utilizadas por varias apps\Zonas\NuevoMedioTransporte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Utilizadas por varias apps\Zonas\SeleccionVehiculo.Designer.vb">
+      <DependentUpon>SeleccionVehiculo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Utilizadas por varias apps\Zonas\SeleccionVehiculo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Utilizadas por varias apps\Zonas\SeleccionZona.Designer.vb">
+      <DependentUpon>SeleccionZona.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Utilizadas por varias apps\Zonas\SeleccionZona.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Operarios\Inspecciones\NuevaInspeccion.designer.vb">
+      <DependentUpon>NuevaInspeccion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Operarios\Inspecciones\NuevaInspeccion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Utilizadas por varias apps\Lotes\NuevoLote.designer.vb">
+      <DependentUpon>NuevoLote.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Utilizadas por varias apps\Lotes\NuevoLote.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas internas\Transportista\SeleccionarLote.Designer.vb">
+      <DependentUpon>SeleccionarLote.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas internas\Transportista\SeleccionarLote.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pop-Ups\ViajeEnCurso.designer.vb">
+      <DependentUpon>ViajeEnCurso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pop-Ups\ViajeEnCurso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pop-Ups\DatosUser.resx">
+      <DependentUpon>DatosUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pop-Ups\EscanerQR.resx">
+      <DependentUpon>EscanerQR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pop-Ups\NuevoTicket.resx">
+      <DependentUpon>NuevoTicket.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pop-Ups\TicketMenu.resx">
+      <DependentUpon>TicketMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tiles\TileMedio.resx">
+      <DependentUpon>TileMedio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tiles\TileTicket.resx">
+      <DependentUpon>TileTicket.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tiles\TileUser.resx">
+      <DependentUpon>TileUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Admin\AltaUser.resx">
+      <DependentUpon>AltaUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Admin\EvaluacionTransportistas.resx">
+      <DependentUpon>EvaluacionTransportistas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Admin\ImportarVehiculos.resx">
+      <DependentUpon>ImportarVehiculos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Menus internos\MenuUsuarios.resx">
+      <DependentUpon>MenuUsuarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Configuraciones\cambioPass.resx">
+      <DependentUpon>cambioPass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Configuraciones\configGrafica.resx">
+      <DependentUpon>configGrafica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Configuraciones\acercaDe.resx">
+      <DependentUpon>acercaDe.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Configuraciones\configRed.resx">
+      <DependentUpon>configRed.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Configuraciones\configIdioma.resx">
+      <DependentUpon>configIdioma.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ErrorCodes.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>ErrorCodes.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Images.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Images.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menus\LoginVariable.resx">
+      <DependentUpon>LoginVariable.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menus\MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menus\MenuVariable.resx">
+      <DependentUpon>MenuVariable.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Idiomas\EN-UK.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>EN-UK.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Idiomas\ES-LA.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>ES-LA.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pop-Ups\InfoLote.resx">
+      <DependentUpon>InfoLote.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Idiomas\PT_BR.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>PT_BR.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tiles\TileLote.resx">
+      <DependentUpon>TileLote.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tiles\TileLugar.resx">
+      <DependentUpon>TileLugar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Configuraciones\RestablecerPass.resx">
+      <DependentUpon>RestablecerPass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Transportista\SeleccionarMedio.resx">
+      <DependentUpon>SeleccionarMedio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Utilizadas por varias apps\Vehiculos\AltaMedioTransporte.resx">
+      <DependentUpon>AltaMedioTransporte.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Utilizadas por varias apps\Vehiculos\AltaVehiculo.resx">
+      <DependentUpon>AltaVehiculo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Operarios\Inspecciones\Damage.resx">
+      <DependentUpon>Damage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Operarios\Inspecciones\DatosDamage.resx">
+      <DependentUpon>DatosDamage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pop-Ups\DatosInspecc.resx">
+      <DependentUpon>DatosInspecc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pop-Ups\DatosVehiculo.resx">
+      <DependentUpon>DatosVehiculo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Operarios\Inspecciones\DatosNuevaInspeccion.resx">
+      <DependentUpon>DatosNuevaInspeccion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Utilizadas por varias apps\Zonas\HistorialZonas.resx">
+      <DependentUpon>HistorialZonas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Menus internos\MenuLotes.resx">
+      <DependentUpon>MenuLotes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Menus internos\MenuZonas.resx">
+      <DependentUpon>MenuZonas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Menus internos\MenuVehiculos.resx">
+      <DependentUpon>MenuVehiculos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Menus internos\MenuMediosTransporte.resx">
+      <DependentUpon>MenuMediosTransporte.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Utilizadas por varias apps\Zonas\Mapa.resx">
+      <DependentUpon>Mapa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tiles\TileDamage.resx">
+      <DependentUpon>TileDamage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tiles\TileInspeccion.resx">
+      <DependentUpon>TileInspeccion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tiles\TileVehiculo.resx">
+      <DependentUpon>TileVehiculo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Utilizadas por varias apps\Zonas\NuevaZona.resx">
+      <DependentUpon>NuevaZona.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Utilizadas por varias apps\Zonas\NuevoMedioTransporte.resx">
+      <DependentUpon>NuevoMedioTransporte.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Utilizadas por varias apps\Zonas\SeleccionVehiculo.resx">
+      <DependentUpon>SeleccionVehiculo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Utilizadas por varias apps\Zonas\SeleccionZona.resx">
+      <DependentUpon>SeleccionZona.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Operarios\Inspecciones\NuevaInspeccion.resx">
+      <DependentUpon>NuevaInspeccion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Utilizadas por varias apps\Lotes\NuevoLote.resx">
+      <DependentUpon>NuevoLote.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas internas\Transportista\SeleccionarLote.resx">
+      <DependentUpon>SeleccionarLote.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pop-Ups\ViajeEnCurso.resx">
+      <DependentUpon>ViajeEnCurso.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\barco.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\471-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agregarIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\autoEstandar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cfgLogoBlack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cfgLogoWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\damage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flatbedCargado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconoEmp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inspeccionIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logitaskAdmin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logitaskDriver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logitaskDrivers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logitaskOperador.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logitaskOperario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logitaskOperator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logitaskTransportadora.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logitaskTransportista.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loteEmbarcado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marcadorMaps.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\miniVan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reloadIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\suv.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\van.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zonaView.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logofertspa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\changeIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deleteIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vehiculoEnZona.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\esperaEnPuerto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\esperandoEnPatio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\listoParaPartir.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

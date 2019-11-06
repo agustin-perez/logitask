@@ -1,0 +1,710 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ButtonLogin" xml:space="preserve">
+    <value>Iniciar sessão</value>
+  </data>
+  <data name="ErrorMsg" xml:space="preserve">
+    <value>Nome de usuário ou senha incorretos</value>
+    <comment>Mensaje de error que aparece en el Login abajo a la izquierda</comment>
+  </data>
+  <data name="Funcion_main_importarcsv" xml:space="preserve">
+    <value>Importar veículos</value>
+  </data>
+  <data name="Funcion_main_iniciarviaje" xml:space="preserve">
+    <value>Iniciar viagem</value>
+  </data>
+  <data name="Funcion_main_inspecciones" xml:space="preserve">
+    <value>Inspeções</value>
+  </data>
+  <data name="Funcion_main_lotes" xml:space="preserve">
+    <value>Lotes</value>
+  </data>
+  <data name="Funcion_main_users" xml:space="preserve">
+    <value>Usuários</value>
+  </data>
+  <data name="Funcion_main_vehiculos" xml:space="preserve">
+    <value>Veículos</value>
+  </data>
+  <data name="Funcion_main_zonas" xml:space="preserve">
+    <value>Zonas</value>
+  </data>
+  <data name="LoginVariable_lbl_welcome_afternoon" xml:space="preserve">
+    <value>Boa tarde,</value>
+  </data>
+  <data name="LoginVariable_lbl_welcome_morning" xml:space="preserve">
+    <value>Bom día,</value>
+  </data>
+  <data name="LoginVariable_lbl_welcome_night" xml:space="preserve">
+    <value>Boa noite</value>
+  </data>
+  <data name="NuevaInspeccion_btn_qr1" xml:space="preserve">
+    <value>verifique do QR</value>
+    <comment>Botón inspeccionar QR </comment>
+  </data>
+  <data name="NuevaInspeccion_btn_vin" xml:space="preserve">
+    <value>verifique do VIN</value>
+    <comment>Boton para inspeccionar desde vin </comment>
+  </data>
+  <data name="NuevaInspeccion_Title" xml:space="preserve">
+    <value>Inspeção veicular</value>
+    <comment>Título de inspección nueva</comment>
+  </data>
+  <data name="Pass" xml:space="preserve">
+    <value>Senha</value>
+  </data>
+  <data name="ResetPass" xml:space="preserve">
+    <value>Redefinir senha</value>
+  </data>
+  <data name="UserName" xml:space="preserve">
+    <value>Usuário</value>
+  </data>
+  <data name="AltaUser_usuario_ingresado" xml:space="preserve">
+    <value>Usuário inserido corretamente.</value>
+  </data>
+  <data name="AltaUser_usuario_vacios_duplicado" xml:space="preserve">
+    <value>Você deve preencher todos os campos e não pode haver 2 usuários iguais.</value>
+  </data>
+  <data name="ConfigRed_error_lectura" xml:space="preserve">
+    <value>Erro de leitura</value>
+  </data>
+  <data name="Damage_descripcion_vacio" xml:space="preserve">
+    <value>Você deve inserir algo na descrição</value>
+  </data>
+  <data name="DatosDamage_infoDaño" xml:space="preserve">
+    <value>Informações sobre danos #</value>
+  </data>
+  <data name="DatosInspeccion_daño" xml:space="preserve">
+    <value>Danos: </value>
+  </data>
+  <data name="ImportarVehiculos_Error_duplicados_en_BBDD" xml:space="preserve">
+    <value>Um ou mais veículos foram omitidos porque já existem no banco de dados</value>
+  </data>
+  <data name="IniciarViaje_informacion" xml:space="preserve">
+    <value>Informações: </value>
+  </data>
+  <data name="IniciarViaje_subtitulo" xml:space="preserve">
+    <value>Você deve selecionar um ou mais lotes de acordo com a disponibilidade do meio de transporte selecionado anteriormente</value>
+  </data>
+  <data name="MenuVehiculos_error_encontrar_vin" xml:space="preserve">
+    <value>Nenhum veículo foi encontrado com o referido VIN</value>
+  </data>
+  <data name="MenuVehicuos_error_escaneo" xml:space="preserve">
+    <value>Erro de digitalização</value>
+  </data>
+  <data name="SeleccionarMedio_informacion" xml:space="preserve">
+    <value>Informações: </value>
+  </data>
+  <data name="SeleccionarMedio_subtitulo" xml:space="preserve">
+    <value>Selecione um meio de transporte, que determinará quais lotes você pode transportar de acordo com sua capacidade.</value>
+  </data>
+  <data name="AcercaDe_desc" xml:space="preserve">
+    <value>Projeto de passagem de grau - EMT 
+Escuela superior de informática</value>
+  </data>
+  <data name="AcercaDe_lbltitle" xml:space="preserve">
+    <value>Sistema de logística e rastreabilidade automotiva</value>
+  </data>
+  <data name="AcercaDe_link_letra" xml:space="preserve">
+    <value>Carta do Projeto</value>
+  </data>
+  <data name="AltaUser_btn_guardar" xml:space="preserve">
+    <value>Guardar</value>
+  </data>
+  <data name="AltaUser_lbl_ape" xml:space="preserve">
+    <value>Sobrenome:</value>
+  </data>
+  <data name="AltaUser_lbl_cel" xml:space="preserve">
+    <value>Celular:</value>
+  </data>
+  <data name="AltaUser_lbl_name" xml:space="preserve">
+    <value>Nome:</value>
+  </data>
+  <data name="AltaUser_lbl_pass" xml:space="preserve">
+    <value>Senha:</value>
+  </data>
+  <data name="AltaUser_lbl_tel" xml:space="preserve">
+    <value>Telefone:</value>
+  </data>
+  <data name="AltaUser_lbl_username" xml:space="preserve">
+    <value>Usuário:</value>
+  </data>
+  <data name="CamposVacios" xml:space="preserve">
+    <value>Campos Vazios</value>
+  </data>
+  <data name="ConfigGrafica_applyText" xml:space="preserve">
+    <value>Aplicar</value>
+  </data>
+  <data name="ConfigGrafica_applyTma" xml:space="preserve">
+    <value>Aplicar</value>
+  </data>
+  <data name="ConfigGrafica_lbltma" xml:space="preserve">
+    <value>Tema:</value>
+  </data>
+  <data name="ConfigGrafica_lbltxt" xml:space="preserve">
+    <value>Tamanho do texto:</value>
+  </data>
+  <data name="ConfigGrafica_opcClaro" xml:space="preserve">
+    <value>Claro</value>
+  </data>
+  <data name="ConfigGrafica_opcNight" xml:space="preserve">
+    <value>Escuro</value>
+  </data>
+  <data name="ConfigGrafica_reset" xml:space="preserve">
+    <value>Reset</value>
+  </data>
+  <data name="ConfigRed_cambiar" xml:space="preserve">
+    <value>Alterar</value>
+  </data>
+  <data name="ConfigRed_lblbbdd" xml:space="preserve">
+    <value>Base de dados:</value>
+  </data>
+  <data name="ConfigRed_lblinfo" xml:space="preserve">
+    <value>Sem esses dados, você não poderá se conectar ao servidor e não poderá acessar os dados.Em caso de dúvida, consulte um técnico.</value>
+  </data>
+  <data name="ConfigRed_lblpass" xml:space="preserve">
+    <value>senha</value>
+  </data>
+  <data name="ConfigRed_lblruta" xml:space="preserve">
+    <value>Rota:</value>
+  </data>
+  <data name="ConfigRed_lbltitle" xml:space="preserve">
+    <value>Arquivo DSN:</value>
+  </data>
+  <data name="ConfigRed_lbluser" xml:space="preserve">
+    <value>usuário</value>
+  </data>
+  <data name="Damage_btncancelar" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="Damage_btnimg" xml:space="preserve">
+    <value>Adicionar imagem</value>
+  </data>
+  <data name="Damage_btnlisto" xml:space="preserve">
+    <value>Pronto</value>
+  </data>
+  <data name="Damage_lbldamage" xml:space="preserve">
+    <value>Novo Dano</value>
+  </data>
+  <data name="Damage_lbldesc" xml:space="preserve">
+    <value>Descrição (máx. 255 caracteres):</value>
+  </data>
+  <data name="DatosDamage_lbldetalles" xml:space="preserve">
+    <value>detalhes:</value>
+  </data>
+  <data name="DatosInspeccion_btncancelar" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="DatosInspeccion_btnguardar" xml:space="preserve">
+    <value>Salvar</value>
+  </data>
+  <data name="DatosInspeccion_btnnewdamage" xml:space="preserve">
+    <value>Novo Dano</value>
+  </data>
+  <data name="DatosInspeccion_lbldamagetext" xml:space="preserve">
+    <value>Se o veículo não estiver danificado, basta salvar a inspeção.</value>
+  </data>
+  <data name="DatosInspeccion_lbltitleinspec" xml:space="preserve">
+    <value>Inspeção veicular: </value>
+  </data>
+  <data name="DatosInspecc_info" xml:space="preserve">
+    <value>Informações de inspeção #</value>
+  </data>
+  <data name="DatosInspecc_lbldamage" xml:space="preserve">
+    <value>Dano</value>
+  </data>
+  <data name="DatosInspecc_lbldate" xml:space="preserve">
+    <value>tempo de realização:</value>
+  </data>
+  <data name="DatosInspecc_lbllug" xml:space="preserve">
+    <value>colocar:</value>
+  </data>
+  <data name="DatosInspecc_lbluser" xml:space="preserve">
+    <value>Responsável:</value>
+  </data>
+  <data name="DatosInspecc_lblvacio" xml:space="preserve">
+    <value>Nenhum dano foi determinado nesta inspeção.</value>
+  </data>
+  <data name="DatosVehiculo_btnprint" xml:space="preserve">
+    <value>Impressão</value>
+  </data>
+  <data name="DatosVehiculo_info" xml:space="preserve">
+    <value>Informações de:</value>
+  </data>
+  <data name="DatosVehiculo_lblcolor" xml:space="preserve">
+    <value>Cor:</value>
+  </data>
+  <data name="DatosVehiculo_lblinspecctitle" xml:space="preserve">
+    <value>Inspeções</value>
+  </data>
+  <data name="DatosVehiculo_lbllocation" xml:space="preserve">
+    <value>Localização</value>
+  </data>
+  <data name="DatosVehiculo_lblmarca" xml:space="preserve">
+    <value>Marca:</value>
+  </data>
+  <data name="DatosVehiculo_lblmodelo" xml:space="preserve">
+    <value>Modelo:</value>
+  </data>
+  <data name="DatosVehiculo_lblvacio" xml:space="preserve">
+    <value>Este veículo ainda não possui inspeções.</value>
+  </data>
+  <data name="DatosVehiculo_lblyear" xml:space="preserve">
+    <value>Ano:</value>
+  </data>
+  <data name="EscanerQR_btnscan" xml:space="preserve">
+    <value>Digitalizar</value>
+  </data>
+  <data name="EscanerQR_codigoEscaneado" xml:space="preserve">
+    <value>Código digitalizado! Mensagem:</value>
+  </data>
+  <data name="EscanerQR_errorEscaneo" xml:space="preserve">
+    <value>QR não detectado, tente novamente</value>
+  </data>
+  <data name="EscanerQR_meText" xml:space="preserve">
+    <value>Aponte para o código QR e pressione 'Digitalizar'</value>
+  </data>
+  <data name="Guardado" xml:space="preserve">
+    <value>salvo</value>
+  </data>
+  <data name="ImportarVehiculos_btn_cargar" xml:space="preserve">
+    <value>Selecionar arquivo</value>
+  </data>
+  <data name="ImportarVehiculos_btn_cargarBD" xml:space="preserve">
+    <value>Efetue login no sistema</value>
+  </data>
+  <data name="InfoLote_info" xml:space="preserve">
+    <value>Informações do lote: #</value>
+  </data>
+  <data name="InfoLote_nrolote" xml:space="preserve">
+    <value>Lote: #</value>
+  </data>
+  <data name="IniciarViaje_btnNext" xml:space="preserve">
+    <value>Seguinte</value>
+  </data>
+  <data name="IniciarViaje_lbltitle" xml:space="preserve">
+    <value>Iniciar viagem</value>
+  </data>
+  <data name="ListadoZonas_lbltitle" xml:space="preserve">
+    <value>Lista de todas as zonas</value>
+  </data>
+  <data name="LoginVariable_ErrorConexion" xml:space="preserve">
+    <value>Erro de rede, veja as configurações</value>
+  </data>
+  <data name="LoginVariable_errorRed" xml:space="preserve">
+    <value>Erro de rede, verifique o código de configuração da rede:</value>
+  </data>
+  <data name="LoginVariable_errorRedTitle" xml:space="preserve">
+    <value>Error al conectar</value>
+  </data>
+  <data name="LoginVariable_vacio" xml:space="preserve">
+    <value>Você deve digitar um nome de usuário e senha</value>
+  </data>
+  <data name="LoginVariable_vaciotitle" xml:space="preserve">
+    <value>Preencha os campos</value>
+  </data>
+  <data name="MenuLotes_lbltitle" xml:space="preserve">
+    <value>Lotes</value>
+  </data>
+  <data name="NuevaInspeccion_btnQR" xml:space="preserve">
+    <value>verifique do QR</value>
+  </data>
+  <data name="NuevaInspeccion_btnVIN" xml:space="preserve">
+    <value>verifique do VIN</value>
+  </data>
+  <data name="NuevoLote_btncancelar" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="NuevoLote_btndeshacer" xml:space="preserve">
+    <value>Desfazer</value>
+  </data>
+  <data name="NuevoLote_btnsave" xml:space="preserve">
+    <value>Salvar</value>
+  </data>
+  <data name="NuevoLote_EmptyVehicle" xml:space="preserve">
+    <value>Não há veículos para adicionar aos lotes, eles não são inspecionados ou já estão em um lote.</value>
+  </data>
+  <data name="NuevoLote_lbladdtitle" xml:space="preserve">
+    <value>Selecione os veículos para adicionar</value>
+  </data>
+  <data name="NuevoLote_lblconfirmados" xml:space="preserve">
+    <value>Veículos Confirmados</value>
+  </data>
+  <data name="NuevoLote_lbldesc" xml:space="preserve">
+    <value>Descrição</value>
+  </data>
+  <data name="NuevoLote_lblnombre" xml:space="preserve">
+    <value>Nome</value>
+  </data>
+  <data name="NuevoLote_lblnrolote" xml:space="preserve">
+    <value>Lote: </value>
+  </data>
+  <data name="SeleccionarMedio_btnNext" xml:space="preserve">
+    <value>Seguinte →</value>
+  </data>
+  <data name="SeleccionarMedio_lbl_title" xml:space="preserve">
+    <value>Primeiro, selecione um meio de transporte</value>
+  </data>
+  <data name="ViajeEnCurso_btnCentrarMapa" xml:space="preserve">
+    <value>Mapa do Centro</value>
+  </data>
+  <data name="ViajeEnCurso_btnVerDestino" xml:space="preserve">
+    <value>Ver destino</value>
+  </data>
+  <data name="ViajeEnCurso_Coche" xml:space="preserve">
+    <value>Carro</value>
+  </data>
+  <data name="ViajeEnCurso_FinalizarViaje" xml:space="preserve">
+    <value>Finalizar viaje</value>
+  </data>
+  <data name="ViajeEnCurso_Lote" xml:space="preserve">
+    <value>Lote</value>
+  </data>
+  <data name="ViajeEnCurso_Usuario" xml:space="preserve">
+    <value>Usuário</value>
+  </data>
+  <data name="ViajeEnCurso_Vehiculos" xml:space="preserve">
+    <value>Veículos</value>
+  </data>
+  <data name="ConfigIdioma_lbltitle" xml:space="preserve">
+    <value>linguagem</value>
+  </data>
+  <data name="DatosInspeccion_guardadoExitoso" xml:space="preserve">
+    <value>A inspeção foi salva</value>
+  </data>
+  <data name="LoginVariable_importarCSV" xml:space="preserve">
+    <value>Importação de CSV</value>
+  </data>
+  <data name="LoginVariable_iniciarViaje" xml:space="preserve">
+    <value>Iniciar viagem</value>
+  </data>
+  <data name="LoginVariable_inspecciones" xml:space="preserve">
+    <value>Inspeções</value>
+  </data>
+  <data name="LoginVariable_lotes" xml:space="preserve">
+    <value>Lotes</value>
+  </data>
+  <data name="LoginVariable_usuarios" xml:space="preserve">
+    <value>Utilizadores</value>
+  </data>
+  <data name="LoginVariable_vehiculos" xml:space="preserve">
+    <value>veículos</value>
+  </data>
+  <data name="LoginVariable_zonas" xml:space="preserve">
+    <value>Zonas</value>
+  </data>
+  <data name="Ready" xml:space="preserve">
+    <value>Pronto</value>
+  </data>
+  <data name="SeleccionarLote_lblProgress" xml:space="preserve">
+    <value>Mudar para a janela de transporte</value>
+  </data>
+  <data name="ViajeEnCurso_errorGPS" xml:space="preserve">
+    <value>Erro de GPS, você deseja tentar novamente?</value>
+  </data>
+  <data name="ConfigGrafica_lbltitle" xml:space="preserve">
+    <value>Configuração gráfica</value>
+  </data>
+  <data name="InfoLote_btnprint" xml:space="preserve">
+    <value>Impressão</value>
+  </data>
+  <data name="InfoLote_lbldesc" xml:space="preserve">
+    <value>Descrição</value>
+  </data>
+  <data name="InfoLote_lblname" xml:space="preserve">
+    <value>Nome do lote: </value>
+  </data>
+  <data name="InfoLote_lblusername" xml:space="preserve">
+    <value>Responsável: </value>
+  </data>
+  <data name="InfoLote_lbl_inspecctitle" xml:space="preserve">
+    <value>Veículos no lote:</value>
+  </data>
+  <data name="LoginVariable_ingresar" xml:space="preserve">
+    <value>Entrar</value>
+  </data>
+  <data name="MenuPrincipal_cerrarSesion" xml:space="preserve">
+    <value>Fechar Sessão</value>
+  </data>
+  <data name="MenuPrincipal_titulo" xml:space="preserve">
+    <value>Menu principal</value>
+  </data>
+  <data name="MenuVariable_lblSeleccionar" xml:space="preserve">
+    <value>Selecione uma opção</value>
+  </data>
+  <data name="MenuVehiculos_buscarQR" xml:space="preserve">
+    <value>Pesquisa por QR</value>
+  </data>
+  <data name="MenuVehiculos_buscarVIN" xml:space="preserve">
+    <value>Pesquisa por VIN</value>
+  </data>
+  <data name="MenuVehiculos_lbltitle" xml:space="preserve">
+    <value>Veículos</value>
+  </data>
+  <data name="CambiarImagenTipo_StandardCar" xml:space="preserve">
+    <value>Carro padrão</value>
+  </data>
+  <data name="CambiarImagenTipo_Truck" xml:space="preserve">
+    <value>Caminhão</value>
+  </data>
+  <data name="ConfigBoton_acercaDe" xml:space="preserve">
+    <value>Sobre</value>
+  </data>
+  <data name="ConfigBoton_configGrafica" xml:space="preserve">
+    <value>Opções gráficas</value>
+  </data>
+  <data name="ConfigBoton_configRed" xml:space="preserve">
+    <value>Configurações de rede</value>
+  </data>
+  <data name="ConfigBoton_configTitle" xml:space="preserve">
+    <value>Configuração</value>
+  </data>
+  <data name="ConfigBoton_lenguaje" xml:space="preserve">
+    <value>Linguagem</value>
+  </data>
+  <data name="ConfigRed_conectar" xml:space="preserve">
+    <value>Ligar</value>
+  </data>
+  <data name="SeleccionVehiculo_btnready" xml:space="preserve">
+    <value>Pronto</value>
+  </data>
+  <data name="SeleccionVehiculo_lblsubtitle" xml:space="preserve">
+    <value>Selecione o (s) veículo (s) a ser movido e clique no botão "pronto"</value>
+  </data>
+  <data name="SeleccionVehiculo_lbltitle" xml:space="preserve">
+    <value>Seleção de veículo</value>
+  </data>
+  <data name="SeleccionZona_lblsubtitle" xml:space="preserve">
+    <value>Selecione a área para a qual o veículo ou veículos serão movidos</value>
+  </data>
+  <data name="SeleccionZona_lbltitle" xml:space="preserve">
+    <value>Áreas</value>
+  </data>
+  <data name="CambioPass_btnCambiar" xml:space="preserve">
+    <value>Alterar</value>
+  </data>
+  <data name="CambioPass_lblnewPass" xml:space="preserve">
+    <value>Nova senha</value>
+  </data>
+  <data name="CambioPass_lbloldPass" xml:space="preserve">
+    <value>Senha atual</value>
+  </data>
+  <data name="CambioPass_lbltitle" xml:space="preserve">
+    <value>Mudança de senha</value>
+  </data>
+  <data name="ConfigBoton_cambiarPass" xml:space="preserve">
+    <value>Mudança de senha</value>
+  </data>
+  <data name="RestablecerPass_btnSolicitar" xml:space="preserve">
+    <value>Solicitar alteração</value>
+  </data>
+  <data name="RestablecerPass_lblsubtitle" xml:space="preserve">
+    <value>Se você esqueceu sua senha, esta janela enviará uma solicitação ao administrador</value>
+  </data>
+  <data name="RestablecerPass_lbltitle" xml:space="preserve">
+    <value>Solicitar alteração de senha</value>
+  </data>
+  <data name="RestablecerPass_lblusername" xml:space="preserve">
+    <value>Nome de usuário</value>
+  </data>
+  <data name="Alerta" xml:space="preserve">
+    <value>Alerta!</value>
+  </data>
+  <data name="DatosVehiculo_Delete" xml:space="preserve">
+    <value>Tem certeza de que deseja remover este veículo?</value>
+  </data>
+  <data name="AltaVehiculo_btnCrear" xml:space="preserve">
+    <value>Criar</value>
+  </data>
+  <data name="AltaVehiculo_lblanio" xml:space="preserve">
+    <value>Ano</value>
+  </data>
+  <data name="AltaVehiculo_lblcolor" xml:space="preserve">
+    <value>Cor</value>
+  </data>
+  <data name="AltaVehiculo_lblmarca" xml:space="preserve">
+    <value>Marca</value>
+  </data>
+  <data name="AltaVehiculo_lblmodelo" xml:space="preserve">
+    <value>Modelo</value>
+  </data>
+  <data name="AltaVehiculo_lbltipo" xml:space="preserve">
+    <value>Tipo</value>
+  </data>
+  <data name="AltaVehiculo_lbltitle" xml:space="preserve">
+    <value>Registo do veículo</value>
+  </data>
+  <data name="AltaVehiculo_lblvin" xml:space="preserve">
+    <value>VIN</value>
+  </data>
+  <data name="ListadoMediosTransporte_lbltitle" xml:space="preserve">
+    <value>Lista de meios de transporte</value>
+  </data>
+  <data name="NuevaSubZona_btnCrear" xml:space="preserve">
+    <value>Criar</value>
+  </data>
+  <data name="NuevaSubZona_lblcapacidad" xml:space="preserve">
+    <value>Capacidade</value>
+  </data>
+  <data name="NuevaSubZona_lbldescripcion" xml:space="preserve">
+    <value>Descrição</value>
+  </data>
+  <data name="NuevaSubZona_lblnombre" xml:space="preserve">
+    <value>Nome</value>
+  </data>
+  <data name="NuevaSubZona_lbltitle" xml:space="preserve">
+    <value>Criação de subzonas</value>
+  </data>
+  <data name="NuevaSubZona_lblzonaPerteneciente" xml:space="preserve">
+    <value>Área pertencente</value>
+  </data>
+  <data name="NuevoMedioTransporte_btnsave" xml:space="preserve">
+    <value>Salvar</value>
+  </data>
+  <data name="NuevoMedioTransporte_lblcapacidad" xml:space="preserve">
+    <value>Capacidade</value>
+  </data>
+  <data name="NuevoMedioTransporte_lblmatricula" xml:space="preserve">
+    <value>Inscrição</value>
+  </data>
+  <data name="NuevoMedioTransporte_lblnumero" xml:space="preserve">
+    <value>Número</value>
+  </data>
+  <data name="NuevoMedioTransporte_lbltitle" xml:space="preserve">
+    <value>Digite o meio de transporte</value>
+  </data>
+  <data name="DatosUser_lblApellido" xml:space="preserve">
+    <value>Sobrenome</value>
+  </data>
+  <data name="DatosUser_lblMovil" xml:space="preserve">
+    <value>Número de celular</value>
+  </data>
+  <data name="DatosUser_lblNewPass" xml:space="preserve">
+    <value>Nova senha</value>
+  </data>
+  <data name="DatosUser_lblNombre" xml:space="preserve">
+    <value>Nome</value>
+  </data>
+  <data name="DatosUser_lblTelFijo" xml:space="preserve">
+    <value>Telefone fixo</value>
+  </data>
+  <data name="SeleccionarLote_errorcapacidad" xml:space="preserve">
+    <value>Você deve selecionar pelo menos um lote e não pode exceder a capacidade do meio de transporte usado</value>
+  </data>
+</root>
